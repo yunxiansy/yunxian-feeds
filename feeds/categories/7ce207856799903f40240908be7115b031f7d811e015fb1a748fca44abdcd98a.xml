@@ -113,6 +113,23 @@
     </source>
   </entry>
   <entry>
+    <id>urn:uuid:983873be-47d7-50a4-b4b2-a5cf4f0c2518</id>
+    <title>台湾选举决战双北</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/aa353248-5644-41cc-b8d9-0a8eceb84e71"/>
+    <category term="财经"/>
+    <content type="html">林原：目前来看，蒋万安阵营新近采取的选举策略较为有效，阻止了“洋流”继续上涨并扩大领先优势。现阶段两人选情处于拉锯状态，非常紧绷。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
     <id>urn:uuid:9ceffe62-094e-5410-a655-63cd60fb082f</id>
     <title>刘小东：在我心里涌动着很多意识流，我想试着琐碎地告诉你</title>
     <updated>2026-11-26T16:00:00.000Z</updated>
@@ -310,23 +327,6 @@
     <link rel="alternate" href="https://www.ftchinese.com/story/19e4e3bb-1d9c-4e01-9090-19f05a1a8a1d"/>
     <category term="财经"/>
     <content type="html">达美乐比萨中国大陆及港澳地区特许经营商第三季度净新增84家门店，正稳步迈向今年新开350家门店的目标。</content>
-    <source>
-      <title>FT中文网</title>
-      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
-      <link rel="alternate" href="https://www.ftchinese.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:6d3460a7-c8ef-5d5b-b19a-07e4ede910cb</id>
-    <title>转转传赴港筹5亿美元，身价还看盈利成色</title>
-    <updated>2026-11-24T16:00:00.000Z</updated>
-    <author>
-      <name>FT中文网</name>
-    </author>
-    <published>2026-11-24T16:00:00.000Z</published>
-    <link rel="alternate" href="https://www.ftchinese.com/story/200371cd-a575-440a-85c1-b1a4e6a9e69e"/>
-    <category term="财经"/>
-    <content type="html">二手交易平台转转靠质检、寄卖及回收转售做出逾200亿元年收入，但服务投入可以留下多少利润，将是投资人关注的焦点。</content>
     <source>
       <title>FT中文网</title>
       <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
