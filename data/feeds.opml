@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>FreshRSS 订阅 - lee 2026-11-27（30 个订阅源，含 15 个待测试）</title>
+<dateCreated>Fri, 27 Nov 2026 14:48:00 +0800</dateCreated>
+</head>
+<body>
+<outline text="时政" title="时政">
+<outline type="rss" text="端传媒" title="端传媒" xmlUrl="https://theinitium.com/rss/" htmlUrl="https://theinitium.com/"/>
+<outline type="rss" text="中国数字时代中文版" title="中国数字时代中文版" xmlUrl="https://chinadigitaltimes.net/chinese/feed/" htmlUrl="https://chinadigitaltimes.net/chinese/"/>
+<outline type="rss" text="中国数字时代中文版 - 讽刺幽默" title="中国数字时代中文版 - 讽刺幽默" xmlUrl="https://chinadigitaltimes.net/chinese/category/%e2%9d%80%e5%86%85%e5%ae%b9ii%ef%bc%9a%e9%98%bb%e5%87%bb%e6%9e%81%e6%9d%83/%e8%8d%89%e6%b3%a5%e9%a9%ac%e8%af%ad/%e8%ae%bd%e5%88%ba%e5%b9%bd%e9%bb%98/feed/" htmlUrl="https://chinadigitaltimes.net/chinese/"/>
+<outline type="rss" text="BBC 中文（待测试）" title="BBC 中文（待测试）" xmlUrl="https://www.bbc.com/zhongwen/simp/index.xml" htmlUrl="https://www.bbc.com/zhongwen/simp/"/>
+<outline type="rss" text="美国之音 VOA 中文（待测试）" title="美国之音 VOA 中文（待测试）" xmlUrl="https://www.voachinese.com/rssfeeds" htmlUrl="https://www.voachinese.com/"/>
+<outline type="rss" text="自由亚洲电台 RFA 中文（待测试）" title="自由亚洲电台 RFA 中文（待测试）" xmlUrl="https://www.rfa.org/mandarin/RSS" htmlUrl="https://www.rfa.org/mandarin/"/>
+<outline type="rss" text="德国之声 DW 中文（待测试）" title="德国之声 DW 中文（待测试）" xmlUrl="https://rss.dw.com/rdf/rss-chi-all" htmlUrl="https://www.dw.com/zh/"/>
+<outline type="rss" text="纽约时报中文版（待测试）" title="纽约时报中文版（待测试）" xmlUrl="https://cn.nytimes.com/rss/" htmlUrl="https://cn.nytimes.com/"/>
+<outline type="rss" text="联合早报（待测试）" title="联合早报（待测试）" xmlUrl="https://rsshub.app/zaobao/realtime/world" htmlUrl="https://www.zaobao.com.sg/"/>
+<outline type="rss" text="法国国际广播电台 RFI 中文（待测试）" title="法国国际广播电台 RFI 中文（待测试）" xmlUrl="https://cn.rfi.fr/general/rss" htmlUrl="https://cn.rfi.fr/"/>
+</outline>
+<outline text="财经" title="财经">
+<outline type="rss" text="FT中文网" title="FT中文网" xmlUrl="https://www.ftchinese.com/rss/feed" htmlUrl="https://www.ftchinese.com/"/>
+<outline type="rss" text="华尔街日报中文版（待测试）" title="华尔街日报中文版（待测试）" xmlUrl="https://chinese.wsj.com/gb/rssall.xml" htmlUrl="https://chinese.wsj.com/"/>
+<outline type="rss" text="财新网（待测试）" title="财新网（待测试）" xmlUrl="https://www.caixin.com/rss/" htmlUrl="https://www.caixin.com/"/>
+</outline>
+<outline text="IT 科技" title="IT 科技">
+<outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/"/>
+<outline type="rss" text="爱范儿" title="爱范儿" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com/"/>
+<outline type="rss" text="极客公园" title="极客公园" xmlUrl="https://www.geekpark.net/rss" htmlUrl="https://www.geekpark.net/"/>
+<outline type="rss" text="动点科技" title="动点科技" xmlUrl="https://cn.technode.com/feed" htmlUrl="https://cn.technode.com/"/>
+<outline type="rss" text="InfoQ 中文站" title="InfoQ 中文站" xmlUrl="https://www.infoq.cn/feed.xml" htmlUrl="https://www.infoq.cn/"/>
+<outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+<outline type="rss" text="V2EX" title="V2EX" xmlUrl="https://www.v2ex.com/index.xml" htmlUrl="https://www.v2ex.com/"/>
+<outline type="rss" text="LINUX DO" title="LINUX DO" xmlUrl="https://linux.do/latest.rss" htmlUrl="https://linux.do/"/>
+<outline type="rss" text="36氪（待测试）" title="36氪（待测试）" xmlUrl="https://36kr.com/feed" htmlUrl="https://36kr.com/"/>
+<outline type="rss" text="虎嗅（待测试）" title="虎嗅（待测试）" xmlUrl="https://www.huxiu.com/rss" htmlUrl="https://www.huxiu.com/"/>
+<outline type="rss" text="品玩（待测试）" title="品玩（待测试）" xmlUrl="https://www.pingwest.com/rss" htmlUrl="https://www.pingwest.com/"/>
+</outline>
+<outline text="AI" title="AI">
+<outline type="rss" text="量子位" title="量子位" xmlUrl="https://www.qbitai.com/feed" htmlUrl="https://www.qbitai.com/"/>
+<outline type="rss" text="雷锋网" title="雷锋网" xmlUrl="https://www.leiphone.com/feed" htmlUrl="https://www.leiphone.com/"/>
+<outline type="rss" text="美团技术团队" title="美团技术团队" xmlUrl="https://tech.meituan.com/feed" htmlUrl="https://tech.meituan.com/"/>
+<outline type="rss" text="机器之心（待测试）" title="机器之心（待测试）" xmlUrl="https://www.jiqizhixin.com/rss" htmlUrl="https://www.jiqizhixin.com/"/>
+<outline type="rss" text="新智元（待测试）" title="新智元（待测试）" xmlUrl="https://www.ai-era.com/feed" htmlUrl="https://www.ai-era.com/"/>
+<outline type="rss" text="智东西（待测试）" title="智东西（待测试）" xmlUrl="https://zhidx.com/feed" htmlUrl="https://zhidx.com/"/>
+</outline>
+</body>
+</opml>

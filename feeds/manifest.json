@@ -1,0 +1,21 @@
+{
+  "all": "feeds/all.xml",
+  "categories": [
+    {
+      "title": "AI",
+      "path": "feeds/categories/11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c.xml"
+    },
+    {
+      "title": "IT 科技",
+      "path": "feeds/categories/e29412a3ac6c9231ece7ffba56fdf3bc889fafd3de365bf416afb955605915fc.xml"
+    },
+    {
+      "title": "时政",
+      "path": "feeds/categories/5c53a726a56e46cf3a165c137a444d9fc47f36284611ba740500b7dd906bcc8f.xml"
+    },
+    {
+      "title": "财经",
+      "path": "feeds/categories/7ce207856799903f40240908be7115b031f7d811e015fb1a748fca44abdcd98a.xml"
+    }
+  ]
+}

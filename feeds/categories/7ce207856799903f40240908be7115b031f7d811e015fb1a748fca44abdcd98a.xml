@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:90db934a-45fa-5688-9a58-5848b5bb7d29</id>
+  <title>财经 — Feeds</title>
+  <updated>2026-11-26T16:00:00.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://yunxiansy.github.io/yunxian-feeds/feeds/categories/7ce207856799903f40240908be7115b031f7d811e015fb1a748fca44abdcd98a.xml"/>
+  <link rel="alternate" type="text/html" href="https://yunxiansy.github.io/yunxian-feeds/"/>
+  <subtitle>Distinct stored items belonging to 财经</subtitle>
+  <entry>
+    <id>urn:uuid:0c53c876-f200-5d1c-9355-ed88783dda85</id>
+    <title>加密货币热潮降温 云锋金融缩减虚拟资产投入</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/42a09e1f-cf12-4cda-9117-1fbff2041506"/>
+    <category term="财经"/>
+    <content type="html">保险公司云锋金融决定将去年募集的相当一部分资金改用于偿还贷款，原先这笔资金拟用于发展虚拟资产相关服务。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:16d28c11-c654-5ffd-80fa-b9b92b7b6507</id>
+    <title>从英国福利改革中，我重新学会读新闻</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/ec09e59d-6596-4575-a35c-bc704dc582f3"/>
+    <category term="财经"/>
+    <content type="html">何越：20多年前，读政策新闻，习惯从标题里寻找一个统一的答案。现在读完一篇报道，会提醒自己，那只是看待这件事的一个角度。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:18c48249-ea3a-5ce1-b5d5-bb813b27db57</id>
+    <title>从“汇聚”到“迁徙”：回望“全球化”的古典时代</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/0848cf5f-69fc-41a7-9e34-f91cb2de6fc6"/>
+    <category term="财经"/>
+    <content type="html">一场展品横跨四大洲，时间线索从公元前600年绵延至公元1000年的大型展出，向人们呈现了全球性流通曾经的灵动与活力，也为今天壁垒高企的世界提供了一份对照。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:248d8b13-a3dc-5755-a73b-a157596fbcb4</id>
+    <title>肖恩·斯库利：他为何如此重要？</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/cae656ee-1f4e-4deb-82cd-4f716c52fdba"/>
+    <category term="财经"/>
+    <content type="html">这位抽象艺术领域的代表性艺术家，几乎在全球所有顶级美术馆举办过展览；81岁的斯库利近年又开始重新挑战雕塑。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:569b52da-d66d-55b8-890d-ddc8d24e6da2</id>
+    <title>一家中国律所和它耕耘十年的艺术中心</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/2c91e256-8b57-46c6-affe-ceb643fa73b2"/>
+    <category term="财经"/>
+    <content type="html">对话金杜律师事务所管理合伙人龚牧龙与金杜艺术中心馆长俞灵轩。一家律所和它所创办的艺术机构，用十年时间不断探问一种理念：严谨与先锋如何蕴育出长期的价值。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:71d1e9e3-451b-5b07-a34f-50e5b8b16674</id>
+    <title>一杯红茶里的帝国棋局</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/efcffd1f-40a1-4fe6-8885-307dedbbb6cc"/>
+    <category term="财经"/>
+    <content type="html">魏城：有人开玩笑说，帝国后人中，地缘战略侃爷特别多，我在土耳其短短的八天旅游行程里，就至少遇到了两个。无论成功与否，土耳其一直在多面下注，为自己争取更大的战略空间。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:9ceffe62-094e-5410-a655-63cd60fb082f</id>
+    <title>刘小东：在我心里涌动着很多意识流，我想试着琐碎地告诉你</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/115e062a-c498-4730-896a-42a37f05d75d"/>
+    <category term="财经"/>
+    <content type="html">这位艺术家说，随着时间不断从生命中流过，他画笔下的世界正变得愈发难以“简而言之”；很多东西，也越来越难以被一笔带过。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:c738ef1f-1494-5e2a-94e7-cc4bf7ecd46b</id>
+    <title>新北市长选战：蓝营强攻火药味越来越猛</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/2418b4e6-97c4-4c09-84d7-e918284e5712"/>
+    <category term="财经"/>
+    <content type="html">叶胜舟：新北今年选战复杂胶着，变数最大、危险最大，蓝营强攻火药味越来越猛。对国民党而言更输不起，对民进党而言已有小丰收。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d50f68a5-b556-51c8-9a10-a52c3c1e9fe0</id>
+    <title>气候大会越来越难出成果，我们还需要它吗？专访绿色和平姚喆</title>
+    <updated>2026-11-26T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-26T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/ee9b23a4-d261-41b3-bc1c-37a3fabf85e8"/>
+    <category term="财经"/>
+    <content type="html">绿色和平东亚办公室全球政策顾问姚喆认为，气候大会需要与现实中国家的气候行动和能源转型的需求产生更强的关联性，这是破解其“中年危机”的核心。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:0be8c724-0060-5045-b8fa-bce870d0d4d7</id>
+    <title>AI泡沫破裂之际　亿都交出亮眼转型成绩</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/03d86fff-81d4-416a-8b5f-b81fe0c15aec"/>
+    <category term="财经"/>
+    <content type="html">亿都上半财年收入增长46%，开展仅一年的AI业务收入增至原来的八倍，占总收入比重由一年前的仅5%升至30%。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:0cdc5fe8-b9df-5267-ad6c-941a62dfb257</id>
+    <title>放学后的账谁来付？</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/4ef1fca0-ec8a-4a1b-8a21-4d97763a34be"/>
+    <category term="财经"/>
+    <content type="html">张昕之：手机和社交媒体禁令做的是“减法”：从所有人手里拿走同一样东西，弱者失去更多。手机可以锁进一只三十美元的袋子，但放学后空出来的那几个小时，由谁陪、在哪过、谁付钱，没有出现在任何一份预算案里。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:1adab82c-2039-5927-bb71-62cd2283b1ef</id>
+    <title>英国移民新规与工地的中文涂鸦</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/588fc634-8e29-491d-b60d-3ecd5c05052a"/>
+    <category term="财经"/>
+    <content type="html">殷岳：英国正在同时失去两类人：有能力离开的人，英国根本留不住；还愿意留下的人，路径却难上加难。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:66f4483b-09bb-5af9-9c1b-ec843ecfeca5</id>
+    <title>专访清华大学蒙克：AI时代，“做自己喜欢的事”为什么不再是一句“鸡汤”？</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/df786819-2c28-4e17-84da-76f9333d72b7"/>
+    <category term="财经"/>
+    <content type="html">只要有足够的时间，我们最终还是会建立起一套适用于AI时代的新标准，重新判断什么是好的作品，什么是有价值的工作。当然，问题就在于，我们这些劳动者能不能坚持到那一天。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:8230c5d9-1d20-55b7-a9a9-57a0037cce4d</id>
+    <title>美国AI投资热潮下，知名家族办公室与基金会陷入风险与回报之争</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/bb7b5b53-8141-4d99-9a84-e48f0cf8dbdd"/>
+    <category term="财经"/>
+    <content type="html">孙昱：随着投资者对AI的敞口日益集中，如何在追逐高回报与控制风险之间取得平衡，正成为这些长期资本管理者面临的重大挑战。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:8b0a930e-2d3a-5fdf-85eb-d31605521617</id>
+    <title>大学毕业后，为什么年轻人开始决定返乡？</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/13bb728e-2fc4-4825-ab81-165e1e4d9a99"/>
+    <category term="财经"/>
+    <content type="html">徐海娜：“返乡”不再是对传统生活方式的简单复制，更不是都市失意后的退而求其次，而是一场基于文化自信的主动创造。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:c2763be6-0622-5d36-8c5b-895b4fe7eff5</id>
+    <title>AI泡沫最大的陷阱：看对了未来，却买错了股票</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/9105c0b9-d097-4b46-ba48-ed546e09e1f3"/>
+    <category term="财经"/>
+    <content type="html">伍治坚：每当一项革命性技术诞生，大量资本便会争先恐后地投入相关产业，推动股票价格不断上涨。然而，技术最终改变世界，并不意味着当初购买这些公司股票的人都能赚钱。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:fe1a9480-d16e-51d8-8e86-a5502aabbf10</id>
+    <title>中国养老金的幸福与痛苦</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/a064a530-0a80-49ce-b28f-0bd6118e4f63"/>
+    <category term="财经"/>
+    <content type="html">周健：一套养老制度好不好，不是看它怎样安置塔顶的人，而是看它怎样对待最普通的劳动者。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:fe2c239c-f23c-5b9b-91a0-3146ba2ce651</id>
+    <title>顶住双重压力 达势股份借新店扩张实现增长</title>
+    <updated>2026-11-25T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-25T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/19e4e3bb-1d9c-4e01-9090-19f05a1a8a1d"/>
+    <category term="财经"/>
+    <content type="html">达美乐比萨中国大陆及港澳地区特许经营商第三季度净新增84家门店，正稳步迈向今年新开350家门店的目标。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:6d3460a7-c8ef-5d5b-b19a-07e4ede910cb</id>
+    <title>转转传赴港筹5亿美元，身价还看盈利成色</title>
+    <updated>2026-11-24T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-24T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/200371cd-a575-440a-85c1-b1a4e6a9e69e"/>
+    <category term="财经"/>
+    <content type="html">二手交易平台转转靠质检、寄卖及回收转售做出逾200亿元年收入，但服务投入可以留下多少利润，将是投资人关注的焦点。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d1da17c4-cad6-59cf-87b1-0e04185d930b</id>
+    <title>和誉医药首款自研药在美获批，首笔销售将触发2,000万美元付款</title>
+    <updated>2026-11-24T16:00:00.000Z</updated>
+    <author>
+      <name>FT中文网</name>
+    </author>
+    <published>2026-11-24T16:00:00.000Z</published>
+    <link rel="alternate" href="https://www.ftchinese.com/story/2623230e-d4a2-4512-99c0-b6758320b253"/>
+    <category term="财经"/>
+    <content type="html">和誉自主研发的匹米替尼的全球商业化权益已经授权给德国默克，和誉可按净销售额收取两位数比例的分成。</content>
+    <source>
+      <title>FT中文网</title>
+      <link rel="self" href="https://www.ftchinese.com/rss/feed"/>
+      <link rel="alternate" href="https://www.ftchinese.com/"/>
+    </source>
+  </entry>
+</feed>
